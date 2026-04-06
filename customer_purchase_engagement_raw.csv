@@ -1,0 +1,1221 @@
+transaction_id,purchase_date,customer_id,gender,age_group,marketing_channel,product_category,device_type,session_duration_min,email_opens_last_30d,click_through_rate,repeat_customer,quantity,purchase_amount_usd
+T100000,2025-04-13,C1155,Female,25-34,Social,Fashion,Desktop,7.8,5,0.079,1,1,126.53
+T100001,2025-12-15,C1048,Male,25-34,Email,Electronics,Mobile,5.4,7,0.075,1,1,199.57
+T100002,2025-09-28,C1083,Female,25-34,Organic Search,Fitness,Mobile,4.8,1,0.071,1,1,110.51
+T100003,2025-04-17,C1176,Male,18-24,Paid Search,Fitness,Mobile,7.0,5,0.074,0,2,167.72
+T100004,2025-03-13,C1147,Female,55+,Social,Fashion,Mobile,2.8,6,0.09,1,1,83.56
+T100005,2025-07-08,C1117,,35-44,Paid Search,Electronics,Desktop,6.3,4,0.074,0,2,354.36
+T100006,2025-01-21,C1062,Female,55+,Referral,Home,Desktop,8.5,9,0.077,1,1,96.28
+T100007,2025-04-13,C1188,Female,25-34,Email,Fashion,Mobile,9.1,5,0.142,1,1,102.04
+T100008,2025-05-02,C1048,Female,45-54,Social,Fitness,Mobile,5.3,3,0.113,0,2,204.3
+T100009,2025-08-03,C1256,Male,45-54,Social,Home,Desktop,,5,0.067,0,1,107.79
+T100010,2025-11-27,C1223,Male,35-44,Social,Electronics,Mobile,2.8,4,0.085,0,1,257.37
+T100011,2025-03-29,C1140,Male,35-44,Paid Search,Electronics,Desktop,4.6,0,0.083,0,2,489.35
+T100012,2025-04-10,C1214,Female,25-34,Organic Search,Beauty,Desktop,2.6,2,0.084,1,1,34.06
+T100013,2025-12-26,C1210,Female,45-54,Social,Fitness,Mobile,7.6,2,0.081,0,1,67.72
+T100014,2025-06-01,C1317,Male,35-44,Paid Search,Electronics,Mobile,8.6,2,0.085,0,1,179.89
+T100015,2025-05-11,C1031,Female,18-24,Paid Search,Beauty,Tablet,5.4,4,0.074,0,1,52.69
+T100016,2025-05-30,C1157,Male,25-34,Organic Search,Beauty,Mobile,3.9,6,0.064,0,2,66.28
+T100017,2025-11-05,C1284,,55+,Organic Search,Beauty,Mobile,7.3,5,0.07,1,2,77.23
+T100018,2025-09-15,C1304,,45-54,Paid Search,Fitness,Mobile,4.3,7,0.03,0,3,286.63
+T100019,2025-12-10,C1285,Non-binary,55+,Paid Search,Fashion,Mobile,8.2,4,0.103,1,1,72.5
+T100020,2025-10-21,C1143,Male,35-44,Paid Search,Home,Desktop,11.3,2,0.096,0,1,50.44
+T100021,2025-07-11,C1018,Female,25-34,Social,Fashion,Desktop,4.3,2,0.142,0,1,86.59
+T100022,2025-10-04,C1017,Female,25-34,Social,Electronics,Desktop,4.6,4,0.046,0,2,503.77
+T100023,2025-06-10,C1256,Male,25-34,Social,Electronics,Mobile,2.9,3,0.07,1,1,144.6
+T100024,2025-11-10,C1077,Male,18-24,Referral,Electronics,Mobile,6.9,2,0.117,1,2,440.91
+T100025,2025-01-22,C1174,Female,25-34,Organic Search,Electronics,Desktop,6.7,4,0.093,1,2,304.16
+T100026,2025-09-10,C1193,Female,25-34,Email,Electronics,Mobile,5.8,0,0.131,1,1,188.57
+T100027,2025-08-24,C1112,Female,25-34,Email,Electronics,Desktop,6.5,2,0.126,0,1,253.93
+T100028,2025-12-11,C1113,Male,55+,Paid Search,Fashion,Mobile,3.9,4,0.009,1,1,92.37
+T100029,2025-02-18,C1221,Male,25-34,Referral,Electronics,Desktop,2.3,4,0.09,1,2,472.98
+T100030,2025-02-28,C1165,Male,45-54,Organic Search,Fitness,Desktop,4.6,2,0.09,0,1,100.12
+T100031,2025-06-19,C1318,Female,35-44,Paid Search,Electronics,Mobile,1.7,3,0.081,0,3,691.49
+T100032,2025-07-07,C1131,,25-34,Paid Search,Fashion,Mobile,4.3,2,0.069,1,1,67.87
+T100033,2025-09-28,C1263,Male,25-34,Organic Search,Fitness,Mobile,7.3,3,0.129,0,4,442.87
+T100034,2025-07-09,C1054,Female,18-24,Social,Electronics,Mobile,6.6,3,0.081,1,1,86.52
+T100035,2025-06-24,C1130,Female,25-34,Email,Fashion,Desktop,2.1,3,0.005,0,1,68.57
+T100036,2025-02-20,C1287,Female,35-44,Referral,Beauty,Desktop,9.1,3,0.069,0,2,90.2
+T100037,2025-12-30,C1265,Female,18-24,Organic Search,Fashion,Desktop,6.0,2,0.144,1,2,166.64
+T100038,2025-02-24,C1161,Non-binary,25-34,,Beauty,Tablet,3.3,4,0.048,1,1,38.65
+T100039,2025-09-01,C1086,Male,25-34,Referral,Fitness,Mobile,5.6,4,0.119,0,2,225.3
+T100040,2025-11-16,C1054,Male,55+,Email,Fashion,Mobile,5.0,1,0.113,1,2,182.02
+T100041,2025-05-11,C1287,Female,45-54,Referral,Home,Mobile,4.3,1,0.074,0,1,117.21
+T100042,2025-11-03,C1177,Female,35-44,Referral,Electronics,Desktop,8.5,2,0.088,0,1,199.25
+T100043,2025-05-15,C1007,Male,18-24,Social,Fashion,Mobile,3.7,8,0.08,1,2,205.94
+T100044,2025-01-21,,Female,45-54,Social,Home,Desktop,7.0,2,0.066,0,1,91.35
+T100045,2025-11-25,C1312,Male,45-54,Paid Search,Beauty,Mobile,,8,0.062,0,1,45.37
+T100046,2025-06-16,C1246,Non-binary,35-44,Referral,Electronics,Tablet,6.4,0,0.125,0,2,382.24
+T100047,2025-10-01,,Male,55+,Organic Search,Beauty,Tablet,,4,0.077,1,1,39.84
+T100048,2025-03-30,C1254,Male,25-34,Social,Fashion,Mobile,7.2,3,0.059,0,1,91.52
+T100049,2025-11-12,C1053,Female,55+,Referral,Electronics,Mobile,6.7,4,0.098,1,3,804.75
+T100050,2025-01-14,C1248,Female,55+,Referral,Home,Desktop,5.9,7,0.095,1,1,82.3
+T100051,2025-08-30,C1238,Female,18-24,Social,Fitness,Mobile,3.8,5,0.037,0,2,211.96
+T100052,2025-09-22,C1228,Male,25-34,Paid Search,Fashion,Mobile,3.9,4,0.063,1,2,157.72
+T100053,2025-12-12,C1066,Female,55+,Referral,Home,Desktop,7.2,3,0.031,1,1,118.31
+T100054,2025-02-22,C1050,Female,18-24,Organic Search,Home,Mobile,3.3,4,0.159,0,1,107.92
+T100055,2025-12-06,C1096,Male,35-44,Referral,Fashion,Desktop,2.8,3,0.071,0,1,107.13
+T100056,2025-04-02,C1091,Female,55+,Social,Fitness,Desktop,10.1,4,0.062,0,1,136.25
+T100057,2025-09-21,C1263,Female,35-44,Paid Search,Electronics,Mobile,5.9,5,0.067,1,1,204.45
+T100058,2025-02-04,C1290,Female,25-34,Paid Search,Electronics,Mobile,8.1,5,0.059,1,1,246.93
+T100059,2025-07-25,C1095,Non-binary,35-44,Organic Search,Beauty,Mobile,8.7,0,0.077,0,1,42.82
+T100060,2025-03-22,C1087,Male,25-34,Social,Electronics,Desktop,6.6,6,0.119,0,1,213.29
+T100061,2025-02-19,C1077,Male,35-44,Paid Search,Electronics,Mobile,5.6,3,0.085,0,1,220.32
+T100062,2025-12-26,C1287,Female,18-24,Organic Search,Fashion,Desktop,5.6,2,0.04,1,1,73.8
+T100063,2025-01-02,C1119,,35-44,Paid Search,Electronics,Mobile,10.5,6,0.048,0,1,208.22
+T100064,2025-02-23,C1301,Male,35-44,Social,Fitness,Mobile,5.1,1,0.087,1,1,89.5
+T100065,2025-04-16,C1164,Female,45-54,Organic Search,Electronics,Mobile,6.9,4,0.057,0,1,158.66
+T100066,2025-09-17,C1181,Male,35-44,Email,Fashion,Mobile,8.2,2,0.076,1,1,96.47
+T100067,2025-11-06,C1222,Female,35-44,Email,Fitness,Mobile,7.1,5,0.161,0,1,116.09
+T100068,2025-07-10,C1310,Male,35-44,Email,Electronics,Desktop,9.2,1,0.052,1,2,460.31
+T100069,2025-08-06,C1006,Male,18-24,Organic Search,Beauty,Mobile,5.5,1,0.039,0,1,36.01
+T100070,2025-02-13,C1262,Female,35-44,Email,Electronics,Mobile,8.2,3,0.06,1,1,257.26
+T100071,2025-06-11,C1160,,25-34,Email,Fashion,Mobile,2.0,1,0.028,0,1,96.17
+T100072,2025-07-21,C1150,Male,55+,Referral,Fashion,Desktop,9.9,5,0.121,0,1,68.74
+T100073,2025-09-27,C1084,Male,18-24,Referral,Home,Mobile,9.3,3,0.047,0,1,68.19
+T100074,2025-12-17,C1146,Female,25-34,Paid Search,Home,Mobile,5.7,3,0.053,1,3,313.82
+T100075,2025-10-31,C1111,Female,35-44,Referral,Home,Desktop,7.6,2,0.042,0,1,102.09
+T100076,2025-09-28,C1035,Female,25-34,Email,Fitness,Mobile,8.7,5,0.031,0,4,506.35
+T100077,2025-08-03,C1284,Male,18-24,Organic Search,Home,Desktop,3.9,2,0.08,1,1,151.02
+T100078,2025-09-09,C1187,Female,35-44,Organic Search,Electronics,Mobile,6.1,3,0.059,1,1,271.2
+T100079,2025-07-09,C1081,Male,35-44,Paid Search,Home,Mobile,3.2,4,0.028,0,1,79.29
+T100080,2025-10-23,C1001,Male,35-44,Paid Search,Electronics,Tablet,9.3,4,0.071,1,1,227.26
+T100081,2025-08-01,C1302,Female,25-34,Paid Search,Fitness,Mobile,8.6,2,0.093,0,1,84.62
+T100082,2025-07-27,C1196,Male,35-44,Paid Search,Electronics,Desktop,5.8,2,0.069,1,1,199.15
+T100083,2025-08-25,C1010,Female,25-34,Social,Fitness,Mobile,5.5,2,0.1,1,1,83.85
+T100084,2025-12-04,C1233,Non-binary,35-44,Email,Electronics,Desktop,6.1,4,0.133,0,1,208.39
+T100085,2025-02-22,C1194,Male,35-44,Email,Electronics,Desktop,4.3,2,0.106,1,1,253.74
+T100086,2025-10-07,C1118,Female,35-44,Email,Fitness,Mobile,6.1,2,0.088,0,1,122.69
+T100087,2025-08-05,C1019,Female,25-34,Paid Search,Fashion,Desktop,3.9,2,0.106,1,1,122.07
+T100088,2025-09-09,C1260,Female,18-24,Organic Search,Fashion,Mobile,8.7,5,0.149,1,1,87.02
+T100089,2025-07-07,C1292,Male,25-34,Email,Electronics,Desktop,9.3,6,0.039,1,2,359.97
+T100090,2025-02-10,C1255,Male,18-24,Referral,Electronics,Mobile,8.9,3,0.101,0,1,220.99
+T100091,2025-06-06,C1221,Male,25-34,Paid Search,Fashion,Desktop,3.5,3,0.052,0,1,57.58
+T100092,2025-01-15,C1225,Female,35-44,Email,Home,Mobile,6.0,0,0.089,0,1,127.11
+T100093,2025-10-28,C1052,Female,25-34,Social,Electronics,Mobile,8.0,1,0.042,1,3,342.49
+T100094,2025-03-06,C1279,Female,55+,Email,Fashion,Desktop,8.4,2,0.105,1,1,68.97
+T100095,2025-12-11,C1080,Male,18-24,Organic Search,Fashion,Desktop,1.9,4,0.09,1,2,178.26
+T100096,2025-11-23,C1201,Male,45-54,Social,Fashion,Mobile,8.4,5,0.127,0,1,104.0
+T100097,2025-01-09,C1157,Female,35-44,Email,Fashion,Mobile,3.4,3,0.074,1,1,66.72
+T100098,2025-12-10,C1119,Female,25-34,Email,Fashion,Mobile,6.1,6,0.073,1,1,
+T100099,2025-05-09,C1058,Male,18-24,Paid Search,Electronics,Mobile,9.6,2,0.073,1,1,208.18
+T100100,2025-05-16,C1214,Male,35-44,Email,Electronics,Mobile,9.3,3,0.156,0,2,511.19
+T100101,2025-03-04,C1127,Male,25-34,Email,Beauty,Desktop,9.8,2,0.101,0,1,28.58
+T100102,2025-05-19,C1223,Male,55+,Paid Search,Beauty,Mobile,3.8,1,0.122,1,1,41.7
+T100103,2025-03-22,C1208,Female,35-44,Paid Search,Home,Desktop,4.5,3,0.104,1,1,118.77
+T100104,2025-06-12,C1114,Female,55+,Organic Search,Home,Desktop,5.1,2,0.108,0,1,75.73
+T100105,2025-10-16,C1208,Male,25-34,Social,Home,Mobile,6.1,6,0.038,1,1,78.46
+T100106,2025-09-18,C1013,Male,35-44,Organic Search,Beauty,Mobile,7.0,0,0.065,0,1,40.98
+T100107,2025-08-19,C1008,Female,35-44,Email,Electronics,Mobile,9.7,0,0.063,1,1,231.75
+T100108,2025-02-10,C1039,Male,35-44,Email,Electronics,Mobile,4.2,2,0.084,0,1,186.06
+T100109,2025-01-28,C1236,Male,25-34,Referral,Beauty,Desktop,4.9,4,0.079,0,2,105.79
+T100110,2025-05-15,C1280,Male,35-44,Organic Search,Fitness,Mobile,10.1,5,0.034,0,1,115.98
+T100111,2025-07-20,C1200,Male,25-34,Referral,Electronics,Desktop,3.6,2,0.083,0,1,230.3
+T100112,2025-11-24,C1245,Female,45-54,Paid Search,Beauty,Mobile,8.3,6,0.022,0,1,49.04
+T100113,2025-09-25,C1277,Male,25-34,Organic Search,Fitness,Mobile,6.3,1,0.105,1,3,347.35
+T100114,2025-02-02,C1234,Male,45-54,Organic Search,Home,Mobile,7.5,4,0.085,0,1,90.52
+T100115,2025-02-17,C1003,Male,18-24,Paid Search,Electronics,Mobile,4.5,12,0.119,0,1,169.58
+T100116,2025-03-03,C1153,Male,45-54,Organic Search,Home,Mobile,8.3,4,0.088,0,3,191.64
+T100117,2025-08-04,C1028,Male,45-54,Organic Search,Home,Mobile,4.9,5,0.068,0,1,122.49
+T100118,2025-10-20,C1108,Female,45-54,Email,Fashion,Desktop,3.0,3,0.035,0,3,253.0
+T100119,2025-04-09,C1097,Male,35-44,Paid Search,Electronics,Desktop,7.7,4,0.07,0,1,78.64
+T100120,2025-06-21,C1214,Male,25-34,Social,Fitness,Mobile,0.3,3,0.058,1,1,175.36
+T100121,2025-12-26,C1292,Male,55+,Referral,Electronics,Mobile,5.1,5,0.093,0,2,243.9
+T100122,2025-08-02,C1074,Male,25-34,Paid Search,Home,Mobile,7.2,2,0.069,1,3,375.61
+T100123,2025-02-04,C1145,Male,35-44,Paid Search,Beauty,Mobile,8.4,3,0.1,0,1,20.6
+T100124,2025-08-15,C1127,Male,35-44,Email,Home,Mobile,9.6,2,0.123,0,3,230.98
+T100125,2025-04-11,C1041,Male,35-44,Social,Home,Mobile,10.9,5,0.04,0,1,118.88
+T100126,2025-05-11,C1040,Female,25-34,Paid Search,Electronics,Mobile,10.2,4,0.082,1,2,621.96
+T100127,2025-09-14,C1033,Female,35-44,Referral,Home,Mobile,7.0,7,0.081,1,1,119.92
+T100128,2025-01-05,C1016,Male,45-54,Paid Search,Fitness,Mobile,9.3,3,0.091,1,1,159.09
+T100129,2025-08-06,C1164,Male,18-24,Paid Search,Home,Mobile,6.9,2,0.103,0,3,189.75
+T100130,2025-09-12,C1152,Female,55+,Organic Search,Fashion,Desktop,8.2,3,0.13,1,3,263.06
+T100131,2025-12-25,C1075,Female,18-24,Social,Fitness,Mobile,5.0,0,0.049,0,1,112.79
+T100132,2025-10-10,C1086,Male,25-34,Organic Search,Home,Mobile,7.7,4,0.035,0,1,133.05
+T100133,2025-07-26,C1116,Female,18-24,Paid Search,Electronics,Desktop,5.3,3,0.088,1,1,221.69
+T100134,2025-01-15,C1026,Female,18-24,Referral,Beauty,Desktop,6.1,3,0.095,0,1,43.35
+T100135,2025-12-12,C1312,Female,55+,Email,Fashion,Desktop,7.7,4,0.104,1,1,86.13
+T100136,2025-02-11,C1286,Female,25-34,Referral,Electronics,Desktop,11.7,1,0.059,0,1,224.28
+T100137,2025-06-28,C1133,Female,25-34,Email,Fashion,Mobile,7.5,3,0.035,1,1,
+T100138,2025-03-04,C1218,Female,25-34,Social,Electronics,Mobile,6.5,0,0.119,1,2,497.31
+T100139,2025-12-18,C1167,Female,35-44,Organic Search,Fashion,Desktop,4.4,1,0.097,1,1,95.44
+T100140,2025-08-19,C1097,Male,35-44,Paid Search,Electronics,Mobile,8.7,1,0.071,0,1,131.06
+T100141,2025-08-29,C1267,Male,25-34,Referral,Fashion,Mobile,5.7,4,0.018,0,1,32.14
+T100142,2025-02-21,C1236,Male,25-34,Email,Beauty,Desktop,7.4,4,0.062,1,1,39.73
+T100143,2025-04-06,C1308,Female,45-54,Paid Search,Home,Mobile,8.3,3,0.103,0,1,99.52
+T100144,2025-08-10,C1172,Female,25-34,Organic Search,Electronics,Mobile,9.7,5,0.095,1,1,205.79
+T100145,2025-08-19,C1189,Male,25-34,Paid Search,Home,Mobile,8.6,3,0.041,1,2,184.84
+T100146,2025-08-25,C1121,Female,25-34,Organic Search,Fashion,Mobile,3.4,5,0.101,0,2,129.64
+T100147,2025-05-23,C1045,Male,45-54,Email,Electronics,Mobile,2.2,5,0.079,1,2,454.42
+T100148,2025-06-20,C1063,Male,25-34,Email,Electronics,Desktop,8.3,5,0.12,1,3,504.64
+T100149,2025-01-29,C1129,Male,35-44,Email,Beauty,Desktop,6.7,3,0.061,0,2,78.63
+T100150,2025-02-05,C1309,Female,25-34,Email,Beauty,Mobile,7.5,2,0.063,0,2,85.07
+T100151,2025-01-13,C1192,Female,55+,Paid Search,Beauty,Desktop,10.8,3,0.085,0,1,44.88
+T100152,2025-06-09,C1306,Male,25-34,Social,Fitness,Mobile,5.0,1,0.069,0,1,119.28
+T100153,2025-11-23,C1180,Female,45-54,Referral,Electronics,Mobile,9.7,4,0.056,1,1,326.03
+T100154,2025-07-06,C1291,Male,25-34,Social,Fashion,Desktop,5.0,3,0.137,0,1,69.04
+T100155,2025-08-31,C1281,Male,25-34,Email,Home,Desktop,10.4,1,0.125,1,1,62.91
+T100156,2025-03-27,C1028,,45-54,Paid Search,Electronics,Desktop,8.4,1,0.053,0,1,170.42
+T100157,2025-10-11,C1148,Female,25-34,Email,Fitness,Desktop,2.7,1,0.089,1,2,176.41
+T100158,2025-03-07,C1266,Male,45-54,Paid Search,Fitness,Desktop,5.5,1,0.036,1,1,170.41
+T100159,2025-06-19,C1295,Male,55+,Organic Search,Home,Desktop,11.3,2,0.133,0,1,68.68
+T100160,2025-02-14,C1010,Female,45-54,Email,electronics,Mobile,11.0,2,0.105,0,4,427.14
+T100161,2025-03-03,C1163,Female,18-24,Email,Electronics,Desktop,8.0,2,0.112,1,1,243.03
+T100162,2025-05-14,C1112,Male,45-54,Referral,Home,Tablet,7.4,3,0.074,1,1,110.52
+T100163,2025-10-11,C1186,Female,25-34,Organic Search,Fashion,Desktop,7.1,3,0.117,0,1,129.97
+T100164,2025-01-28,C1294,Female,45-54,,Electronics,Mobile,7.6,6,0.117,0,3,515.95
+T100165,2025-04-18,C1231,Female,35-44,Email,Home,Mobile,6.1,2,0.077,0,1,69.39
+T100166,2025-02-13,C1226,Male,45-54,Paid Search,Fashion,Desktop,9.5,3,0.048,0,1,56.35
+T100167,2025-12-06,C1309,Male,25-34,Referral,Fashion,Mobile,7.9,4,0.095,1,1,107.78
+T100168,2025-10-13,C1097,Male,35-44,Email,Home,Tablet,4.1,2,0.078,1,1,98.52
+T100169,2025-11-27,C1054,Female,18-24,Paid Search,Beauty,Mobile,8.1,5,0.138,0,1,34.77
+T100170,2025-05-08,C1110,Female,45-54,Email,Beauty,Mobile,6.9,8,0.084,1,2,98.3
+T100171,2025-12-14,C1151,Male,25-34,Organic Search,Fashion,Desktop,5.7,4,0.085,0,2,190.98
+T100172,2025-08-19,C1245,Male,35-44,Email,Fashion,Mobile,11.2,3,0.106,1,2,166.16
+T100173,2025-07-09,C1068,Female,45-54,Social,Electronics,Mobile,6.8,1,0.082,0,2,431.25
+T100174,2025-08-13,C1311,Male,35-44,Social,Home,Desktop,1.6,1,0.103,0,1,86.65
+T100175,2025-10-10,C1288,,25-34,Social,Beauty,Desktop,5.9,2,0.066,0,2,69.55
+T100176,2025-05-01,C1249,Male,35-44,Paid Search,Fashion,Mobile,9.0,6,0.048,0,1,89.1
+T100177,2025-04-26,C1035,Male,25-34,Social,Fitness,Tablet,4.2,2,0.055,1,1,100.97
+T100178,2025-08-21,C1238,Non-binary,25-34,Organic Search,Fitness,Mobile,8.9,3,0.072,1,1,79.98
+T100179,2025-09-16,C1147,Female,18-24,Paid Search,Fashion,Mobile,4.0,4,0.086,0,1,87.8
+T100180,2025-12-25,C1226,Male,25-34,Organic Search,Electronics,Mobile,9.8,3,0.097,1,1,186.17
+T100181,2025-07-17,C1243,,25-34,Email,Electronics,Desktop,5.1,2,0.096,0,1,245.96
+T100182,2025-05-17,C1200,Female,35-44,Email,Home,Mobile,5.6,4,0.082,1,1,133.51
+T100183,2025-11-14,C1153,Male,18-24,Social,Home,Mobile,5.4,3,0.05,0,2,166.48
+T100184,2025-06-14,C1072,Male,25-34,Paid Search,Electronics,Mobile,8.0,4,0.103,0,1,235.12
+T100185,2025-08-13,C1200,Male,55+,Organic Search,Electronics,Desktop,11.1,6,0.037,0,1,302.53
+T100186,2025-11-03,C1295,Male,18-24,Paid Search,Fitness,Mobile,6.5,4,0.047,1,2,248.11
+T100187,2025-08-22,C1016,Non-binary,35-44,Referral,Fashion,Desktop,6.5,6,0.083,1,1,88.43
+T100188,2025-06-21,C1128,Male,45-54,Referral,Beauty,Desktop,5.1,2,0.106,0,2,82.05
+T100189,2025-06-01,C1216,Female,55+,Referral,Beauty,Mobile,2.4,6,0.101,0,1,71.66
+T100190,2025-11-11,C1060,Male,45-54,Paid Search,Electronics,Mobile,5.3,3,0.079,0,3,696.57
+T100191,2025-06-09,C1103,Female,35-44,Email,Fashion,Mobile,3.4,4,0.095,1,1,73.76
+T100192,2025-04-06,C1041,Female,45-54,Organic Search,Fitness,Desktop,1.8,4,0.05,1,1,177.49
+T100193,2025-08-21,C1024,Male,25-34,Email,Beauty,Mobile,6.3,4,0.065,0,1,44.77
+T100194,2025-06-29,C1038,Male,45-54,Email,Electronics,Mobile,5.1,1,0.066,0,1,173.13
+T100195,2025-04-23,C1290,Female,18-24,Organic Search,Electronics,Mobile,9.9,4,0.053,1,3,525.16
+T100196,2025-11-14,C1130,Non-binary,55+,Organic Search,Electronics,Desktop,4.4,4,0.071,0,1,214.76
+T100197,2025-02-21,C1228,Male,25-34,Referral,Beauty,Mobile,8.2,0,0.076,0,1,32.67
+T100198,2025-09-25,C1107,Male,35-44,Email,Fashion,Mobile,8.1,1,0.068,0,1,57.25
+T100199,2025-10-22,C1171,Female,25-34,Paid Search,Fashion,Desktop,9.8,1,0.074,0,2,126.48
+T100200,2025-04-23,C1101,Male,45-54,Email,Beauty,Tablet,6.0,2,0.005,0,1,37.45
+T100201,2025-04-11,C1011,Male,18-24,Referral,Fashion,Desktop,9.8,5,0.094,1,4,267.15
+T100202,2025-04-23,C1274,Male,45-54,Social,Fashion,Mobile,7.9,1,0.07,0,1,68.05
+T100203,2025-03-22,C1100,Female,45-54,Social,Electronics,Mobile,9.3,3,0.07,1,1,285.88
+T100204,2025-07-06,C1043,Female,25-34,Referral,Home,Mobile,12.5,8,0.04,0,1,114.44
+T100205,2025-04-23,C1304,Female,45-54,Organic Search,Fashion,Mobile,6.2,3,0.129,1,2,139.01
+T100206,2025-01-02,C1016,Female,45-54,Paid Search,Home,Mobile,6.9,6,0.13,1,2,172.48
+T100207,2025-05-10,C1056,Female,35-44,Paid Search,Fashion,Desktop,5.6,3,0.032,1,1,89.83
+T100208,2025-08-08,C1310,Non-binary,25-34,Organic Search,Fashion,Mobile,10.4,3,0.075,0,1,68.85
+T100209,2025-02-23,C1302,Male,25-34,Paid Search,Fitness,Mobile,13.0,3,0.11,0,2,238.4
+T100210,2025-12-09,C1011,Female,25-34,Paid Search,Fashion,Tablet,8.3,2,0.071,0,1,83.56
+T100211,2025-08-12,C1317,Female,25-34,Referral,Fitness,Mobile,2.5,5,0.064,1,1,111.01
+T100212,2025-08-13,C1079,Female,55+,Referral,Fitness,Mobile,4.3,1,0.062,0,1,99.73
+T100213,2025-05-06,C1215,Female,18-24,Social,Home,Mobile,9.4,3,0.091,1,1,135.09
+T100214,2025-05-10,C1263,Female,45-54,Social,Electronics,Mobile,3.6,2,0.16,1,1,336.1
+T100215,2025-02-22,C1148,Female,25-34,Social,Home,Desktop,5.0,3,0.107,0,1,78.99
+T100216,2025-06-21,C1080,Male,35-44,Email,Fitness,Mobile,4.9,4,0.049,1,1,81.94
+T100217,2025-08-06,C1214,,45-54,Email,Electronics,Mobile,6.3,5,0.063,0,2,332.33
+T100218,2025-06-09,C1197,Female,45-54,Social,Electronics,Desktop,7.1,4,0.074,0,1,227.89
+T100219,2025-07-17,C1199,Female,25-34,Social,Electronics,Desktop,1.8,1,0.056,0,2,389.78
+T100220,2025-09-04,C1024,Male,25-34,Email,Fitness,Tablet,2.7,2,0.051,1,1,131.07
+T100221,2025-11-20,C1088,Female,25-34,Referral,Fashion,Desktop,2.7,4,0.104,0,1,63.96
+T100222,2025-07-22,C1267,Female,18-24,Email,Fashion,Mobile,3.0,5,0.067,1,1,44.65
+T100223,2025-07-03,C1142,Male,25-34,Paid Search,Beauty,Mobile,6.5,3,0.093,0,2,55.94
+T100224,2025-05-03,C1058,Female,25-34,Social,Fashion,Mobile,7.0,0,0.135,0,1,100.29
+T100225,2025-09-12,C1025,Male,25-34,Email,Fitness,Mobile,9.0,2,0.066,1,3,393.76
+T100226,2025-10-21,C1046,Male,35-44,Email,Beauty,Desktop,7.9,5,0.09,0,1,23.22
+T100227,2025-10-07,C1287,Female,25-34,Paid Search,Beauty,Desktop,5.0,3,0.051,0,1,52.41
+T100228,2025-11-21,C1265,Female,25-34,Social,Electronics,Mobile,7.1,3,0.094,1,3,666.62
+T100229,2025-04-08,C1015,Male,25-34,Paid Search,Fashion,Mobile,9.1,5,0.121,0,1,68.92
+T100230,2025-07-17,C1198,Female,45-54,Social,Home,Mobile,5.9,6,0.119,0,1,73.28
+T100231,2025-08-28,C1281,Female,45-54,Organic Search,Home,Tablet,5.7,2,0.083,0,3,344.26
+T100232,2025-05-24,C1085,Male,35-44,Email,Fitness,Desktop,4.1,4,0.066,0,1,134.22
+T100233,2025-04-07,C1249,Male,45-54,Referral,Home,Desktop,4.5,4,0.089,1,1,105.48
+T100234,2025-07-20,C1269,Female,25-34,Email,Electronics,Desktop,8.2,4,0.084,1,4,798.44
+T100235,2025-05-04,C1116,Male,35-44,Referral,Fitness,Tablet,6.5,2,0.096,0,1,164.06
+T100236,2025-07-06,C1006,Female,25-34,Organic Search,Electronics,Desktop,11.4,4,0.063,0,2,461.85
+T100237,2025-11-22,C1136,Male,25-34,Referral,Fitness,Desktop,4.8,7,0.07,0,1,119.47
+T100238,2025-12-15,C1175,Male,35-44,Email,Beauty,Mobile,8.4,6,0.075,1,2,91.04
+T100239,2025-09-16,C1314,Male,45-54,Organic Search,Fitness,Mobile,7.5,1,0.102,0,1,79.0
+T100240,2025-05-28,C1214,Male,18-24,Email,Fitness,Mobile,6.3,3,0.106,0,4,439.27
+T100241,2025-09-09,C1081,,35-44,Email,Beauty,Mobile,5.4,4,0.069,1,1,51.67
+T100242,2025-12-12,C1222,Female,35-44,Organic Search,Beauty,Tablet,8.0,5,0.047,1,1,43.68
+T100243,2025-05-27,C1102,Male,18-24,Email,Fitness,Mobile,7.9,4,0.093,0,1,99.89
+T100244,2025-05-28,C1272,Female,25-34,Organic Search,Fitness,Desktop,7.0,6,0.104,0,1,96.22
+T100245,2025-12-18,C1013,Female,25-34,Email,Fitness,Mobile,7.6,5,0.078,0,2,228.25
+T100246,2025-07-18,C1158,Female,25-34,Paid Search,Fashion,Mobile,6.6,3,0.061,0,2,130.79
+T100247,2025-11-04,C1151,Non-binary,25-34,Social,Electronics,Tablet,2.4,7,0.068,1,1,211.65
+T100248,2025-05-08,C1107,Non-binary,25-34,Paid Search,Home,Mobile,6.7,3,0.131,1,2,208.71
+T100249,2025-02-08,C1187,Female,25-34,Organic Search,Fashion,Mobile,5.8,5,0.089,1,1,85.97
+T100250,2025-12-04,C1300,Female,45-54,Social,Home,Mobile,11.4,2,0.112,0,1,69.57
+T100251,2025-12-26,C1097,Male,35-44,Social,electronics,Desktop,8.1,6,0.058,0,1,153.76
+T100252,2025-05-09,C1130,Female,55+,Paid Search,Beauty,Mobile,7.0,2,0.118,0,1,47.09
+T100253,2025-09-24,C1292,Female,25-34,Social,Electronics,Desktop,7.7,3,0.109,0,1,170.68
+T100254,2025-05-31,C1170,Male,45-54,Referral,Electronics,Desktop,3.9,1,0.079,1,2,449.76
+T100255,2025-10-25,C1182,Male,45-54,Social,Fashion,Desktop,5.0,0,0.1,0,1,93.58
+T100256,2025-04-09,C1038,,35-44,Organic Search,Beauty,Desktop,5.7,3,0.121,0,1,48.97
+T100257,2025-09-20,C1014,Female,25-34,Organic Search,Home,Mobile,7.5,3,0.049,0,1,136.72
+T100258,2025-09-09,C1003,Female,45-54,Social,Fashion,Mobile,5.4,1,0.066,0,2,121.13
+T100259,2025-05-24,C1209,Male,25-34,Organic Search,Fashion,Desktop,5.2,6,0.098,0,1,99.37
+T100260,2025-12-12,C1160,Male,25-34,Email,Home,Mobile,3.8,3,0.083,1,1,138.87
+T100261,2025-04-22,C1015,Male,35-44,Email,Electronics,Mobile,6.6,2,0.094,0,1,184.99
+T100262,2025-03-01,C1107,Male,35-44,Social,Fashion,Mobile,6.9,3,0.103,1,2,196.6
+T100263,2025-01-02,C1310,Female,18-24,Paid Search,Fitness,Desktop,7.6,6,0.097,0,1,96.24
+T100264,2025-10-31,C1226,Male,55+,Social,Fitness,Mobile,4.8,2,0.074,0,2,145.53
+T100265,2025-09-11,C1169,Female,35-44,Paid Search,Fashion,Mobile,7.4,2,0.076,1,1,92.93
+T100266,2025-05-20,C1033,Female,25-34,Organic Search,Fitness,Desktop,3.9,2,0.129,0,2,187.12
+T100267,2025-02-06,C1250,Male,55+,Email,Home,Desktop,6.0,5,0.085,1,1,92.06
+T100268,2025-06-09,C1246,Female,25-34,Email,Fitness,Mobile,7.3,2,0.123,0,1,118.11
+T100269,2025-01-09,C1268,Female,55+,Referral,Home,Mobile,5.9,4,0.125,0,1,99.58
+T100270,2025-08-21,C1140,Male,35-44,Referral,Fitness,Desktop,2.6,1,0.059,1,1,99.72
+T100271,2025-04-09,C1273,Male,18-24,Social,Fitness,Tablet,2.9,3,0.104,1,1,92.89
+T100272,2025-05-27,C1095,Male,45-54,Paid Search,Electronics,Desktop,7.1,0,0.05,1,3,563.89
+T100273,2025-10-31,C1226,Female,35-44,Social,Beauty,Mobile,7.9,3,0.131,1,4,262.52
+T100274,2025-07-27,C1038,Male,45-54,Organic Search,Home,Mobile,7.3,2,0.088,0,2,265.79
+T100275,2025-05-11,C1301,Female,55+,Organic Search,Home,Desktop,8.0,1,0.086,1,1,129.81
+T100276,2025-06-01,C1028,Female,45-54,Email,Fitness,Desktop,5.8,3,0.056,1,1,124.4
+T100277,2025-02-23,C1317,,35-44,Organic Search,Home,Mobile,8.3,2,0.064,0,1,94.63
+T100278,2025-04-30,C1244,Male,45-54,Social,Fashion,Mobile,7.3,2,0.089,0,1,75.6
+T100279,2025-06-10,C1235,Male,35-44,Referral,Electronics,Desktop,4.9,2,0.085,1,3,898.74
+T100280,2025-04-26,C1184,Female,25-34,Email,Fitness,Mobile,7.8,4,0.07,0,1,128.76
+T100281,2025-03-16,C1271,Male,45-54,,Fashion,Mobile,7.2,3,0.108,0,4,396.78
+T100282,2025-04-23,C1235,Male,25-34,Organic Search,Fitness,Mobile,10.7,2,0.082,1,1,50.47
+T100283,2025-04-14,C1238,Male,35-44,Paid Search,Beauty,Mobile,9.9,0,0.052,0,2,84.53
+T100284,2025-12-06,C1265,Male,45-54,Email,Fashion,Mobile,6.3,3,0.104,0,1,57.27
+T100285,2025-09-11,C1064,Female,35-44,Paid Search,Home,Desktop,5.5,1,0.047,1,3,255.0
+T100286,2025-08-15,C1176,Female,35-44,Paid Search,Electronics,Mobile,10.4,2,0.024,0,1,196.41
+T100287,2025-04-22,C1002,Male,45-54,Paid Search,Home,Mobile,7.9,1,0.085,1,2,191.97
+T100288,2025-04-09,C1141,Female,25-34,Social,Electronics,Mobile,6.1,5,0.051,0,2,334.4
+T100289,2025-06-02,C1157,Female,45-54,Social,Fashion,Mobile,1.5,3,0.087,0,1,60.34
+T100290,2025-12-15,,Non-binary,25-34,Organic Search,Electronics,Mobile,4.6,3,0.106,0,1,171.64
+T100291,2025-12-04,C1145,Male,18-24,Referral,Fashion,Mobile,4.4,0,0.112,1,1,74.01
+T100292,2025-07-13,C1292,Male,25-34,Paid Search,Fashion,Desktop,6.1,3,0.097,0,1,82.97
+T100293,2025-11-06,C1152,Male,35-44,Paid Search,Electronics,Mobile,8.0,1,0.042,0,1,177.84
+T100294,2025-06-12,C1192,Male,35-44,Social,Fitness,Mobile,8.4,5,0.06,0,1,121.73
+T100295,2025-07-27,C1072,Female,45-54,Email,Electronics,Mobile,10.3,3,0.082,0,1,116.63
+T100296,2025-06-18,C1304,Female,25-34,Paid Search,Beauty,Mobile,8.8,1,0.082,0,2,91.06
+T100297,2025-06-10,C1139,Female,25-34,Paid Search,Electronics,Desktop,3.2,4,0.054,0,1,182.81
+T100298,2025-03-09,C1186,Female,18-24,Email,Fashion,Mobile,9.1,7,0.068,0,1,80.16
+T100299,2025-10-16,C1292,Male,25-34,Social,Fashion,Tablet,10.8,2,0.106,0,3,177.39
+T100300,2025-10-04,C1060,Female,35-44,Paid Search,Electronics,Mobile,10.7,5,0.097,1,2,460.11
+T100301,2025-10-31,C1197,Female,18-24,Organic Search,Electronics,Desktop,3.5,3,0.073,1,1,129.15
+T100302,2025-05-15,C1294,Female,25-34,Email,Fitness,Mobile,6.0,1,0.113,0,1,99.32
+T100303,2025-07-14,C1318,Female,25-34,Social,Electronics,Desktop,8.9,2,0.042,0,1,211.0
+T100304,2025-05-08,C1301,Female,18-24,Paid Search,Fashion,Mobile,3.6,1,0.107,1,2,143.11
+T100305,2025-02-02,C1010,Female,25-34,Social,Beauty,Mobile,2.2,4,0.103,1,2,162.94
+T100306,2025-06-25,C1061,Female,25-34,Paid Search,Home,Desktop,7.3,2,0.104,0,1,82.75
+T100307,2025-01-22,C1225,Female,45-54,Email,Fashion,Desktop,4.8,6,0.091,1,2,158.32
+T100308,2025-08-26,C1152,Female,45-54,Organic Search,Beauty,Mobile,2.4,0,0.062,0,1,51.75
+T100309,2025-06-07,C1198,Male,35-44,Email,Fashion,Mobile,9.6,2,0.1,0,1,121.53
+T100310,2025-02-07,C1051,Female,55+,,Fashion,Mobile,6.9,1,0.07,0,2,105.4
+T100311,2025-08-18,C1259,Female,25-34,Paid Search,Electronics,Desktop,5.2,3,0.088,1,1,176.0
+T100312,2025-12-31,C1058,Male,35-44,Referral,Electronics,Mobile,4.1,4,0.06,0,1,175.93
+T100313,2025-02-20,C1071,Female,55+,Email,Fashion,Mobile,6.9,1,0.072,1,1,65.59
+T100314,2025-09-21,C1147,Male,25-34,Social,Fashion,Desktop,7.8,4,0.078,0,3,317.44
+T100315,2025-10-10,C1062,Male,55+,Email,Electronics,Desktop,7.3,6,0.094,0,1,146.22
+T100316,2025-01-27,C1309,Female,18-24,Paid Search,Fashion,Desktop,2.7,3,0.099,0,1,89.51
+T100317,2025-08-14,C1242,Male,25-34,Paid Search,Home,Desktop,7.7,5,0.133,1,1,108.26
+T100318,2025-10-04,C1106,Female,18-24,Referral,Electronics,Desktop,8.2,3,0.086,0,1,266.79
+T100319,2025-10-13,C1225,Male,35-44,Paid Search,Fashion,Mobile,5.6,3,0.054,0,1,56.93
+T100320,2025-04-07,C1312,Female,35-44,Email,Electronics,Mobile,9.1,7,0.106,0,1,164.81
+T100321,2025-10-11,C1217,Male,35-44,Paid Search,Fashion,Desktop,4.4,3,0.092,1,2,221.58
+T100322,2025-11-13,C1240,Female,25-34,Email,Electronics,Mobile,9.7,3,0.076,0,1,208.38
+T100323,2025-10-31,C1258,Male,25-34,Email,Fitness,Desktop,6.8,3,0.07,0,1,89.0
+T100324,2025-05-27,C1261,Male,18-24,Organic Search,Electronics,Mobile,5.3,5,0.063,0,1,174.28
+T100325,2025-01-04,C1004,Female,25-34,Email,Beauty,Mobile,5.7,5,0.062,1,1,47.81
+T100326,2025-02-04,C1260,Female,55+,Email,Fitness,Tablet,9.0,3,0.045,1,3,307.16
+T100327,2025-07-11,C1053,Male,25-34,Social,Electronics,Desktop,7.1,5,0.111,1,1,158.79
+T100328,2025-02-18,C1046,Male,45-54,Paid Search,Beauty,Mobile,8.1,1,0.095,0,1,32.43
+T100329,2025-01-17,C1214,Female,45-54,Email,Beauty,Desktop,9.2,4,0.085,0,2,97.7
+T100330,2025-06-21,C1176,Male,25-34,Paid Search,Electronics,Desktop,5.2,2,0.063,1,2,490.62
+T100331,2025-08-08,C1008,Non-binary,35-44,Social,Fashion,Mobile,6.8,4,0.115,0,2,189.5
+T100332,2025-06-07,C1098,Male,18-24,Paid Search,Home,Mobile,5.9,0,0.039,0,1,122.53
+T100333,2025-02-15,C1019,Female,18-24,Organic Search,Beauty,Desktop,9.0,3,0.078,0,1,54.48
+T100334,2025-01-06,C1240,Male,18-24,Email,Beauty,Desktop,5.5,3,0.111,1,1,37.8
+T100335,2025-04-09,C1060,Female,35-44,Organic Search,Beauty,Mobile,6.6,3,0.022,0,2,58.69
+T100336,2025-08-21,C1177,,25-34,Paid Search,Electronics,Desktop,12.2,1,0.087,1,1,181.34
+T100337,2025-02-06,C1061,Male,35-44,Organic Search,Home,Desktop,9.7,4,0.062,1,1,137.47
+T100338,2025-10-07,C1144,Female,35-44,Social,Home,Mobile,3.9,0,0.086,0,1,101.62
+T100339,2025-12-15,C1215,Male,25-34,Organic Search,Fitness,Desktop,8.8,4,0.071,0,1,90.18
+T100340,2025-10-29,C1002,Female,35-44,Paid Search,Fashion,Mobile,8.2,3,0.1,1,1,70.71
+T100341,2025-06-30,C1159,,45-54,Paid Search,Beauty,Mobile,3.7,6,0.119,1,3,106.93
+T100342,2025-04-05,C1226,,18-24,Paid Search,Electronics,Desktop,6.2,1,0.157,1,1,156.92
+T100343,2025-04-09,C1268,Male,25-34,Email,electronics,Desktop,4.1,4,0.079,1,1,206.11
+T100344,2025-07-07,C1119,Female,35-44,Email,Electronics,Desktop,0.5,3,0.104,0,3,744.94
+T100345,2025-04-26,C1088,Male,25-34,Social,Electronics,Mobile,6.1,6,0.092,1,1,328.83
+T100346,2025-07-10,C1067,Female,35-44,Paid Search,Home,Mobile,5.2,4,0.094,0,2,192.74
+T100347,2025-09-10,C1097,Female,25-34,Paid Search,Electronics,Mobile,3.7,3,0.126,1,1,174.87
+T100348,2025-06-10,C1266,Male,25-34,Organic Search,Electronics,Mobile,6.5,3,0.061,1,1,137.31
+T100349,2025-09-13,C1104,Female,18-24,Organic Search,Electronics,Mobile,1.2,2,0.071,1,1,292.69
+T100350,2025-11-19,,Female,25-34,Email,Electronics,Mobile,6.6,0,0.077,1,2,442.87
+T100351,2025-05-08,C1122,,35-44,Social,Electronics,Mobile,6.5,2,0.052,1,1,187.57
+T100352,2025-01-18,C1028,Female,25-34,Email,Electronics,Desktop,8.2,5,0.082,0,1,189.82
+T100353,2025-10-08,C1136,Female,45-54,Social,Home,Mobile,2.5,3,0.102,1,2,215.55
+T100354,2025-08-11,C1194,Non-binary,45-54,Social,Beauty,Desktop,11.8,6,0.107,0,1,32.73
+T100355,2025-02-23,C1225,Female,35-44,Social,Electronics,Mobile,10.9,6,0.076,0,1,223.58
+T100356,2025-02-27,C1169,Male,45-54,Organic Search,Home,Mobile,4.6,4,0.116,0,1,62.19
+T100357,2025-11-19,C1008,,25-34,Email,Home,Mobile,10.1,4,0.02,0,1,126.67
+T100358,2025-12-26,C1039,Male,25-34,Paid Search,Electronics,Mobile,8.6,3,0.152,1,2,342.26
+T100359,2025-06-23,C1024,Male,35-44,Organic Search,Electronics,Desktop,5.4,3,0.099,1,2,460.72
+T100360,2025-10-07,C1260,Female,25-34,Paid Search,Beauty,Mobile,5.0,5,0.069,0,4,127.26
+T100361,2025-04-24,C1225,Female,35-44,Referral,Fitness,Desktop,5.2,1,0.096,0,2,183.18
+T100362,2025-10-15,C1123,Male,25-34,Paid Search,Electronics,Tablet,13.6,5,0.077,0,1,215.03
+T100363,2025-12-08,C1037,Male,35-44,Paid Search,Electronics,Desktop,9.9,2,0.019,1,2,540.93
+T100364,2025-05-31,C1250,Male,45-54,Paid Search,Fashion,Mobile,6.0,8,0.083,0,1,96.47
+T100365,2025-05-07,C1175,Female,45-54,Paid Search,Electronics,Desktop,6.2,6,0.109,1,1,211.11
+T100366,2025-06-04,C1089,Female,35-44,Organic Search,Electronics,Mobile,8.6,2,0.111,1,1,172.06
+T100367,2025-09-30,C1036,Female,45-54,Social,Fashion,Mobile,,3,0.09,0,1,53.4
+T100368,2025-04-14,C1315,Male,35-44,Social,Fashion,Desktop,4.1,2,0.111,1,2,225.37
+T100369,2025-10-26,C1175,Female,35-44,Social,Home,Desktop,,2,0.095,1,1,114.89
+T100370,2025-09-03,C1283,Male,18-24,Referral,Beauty,Mobile,5.1,2,0.089,1,1,47.64
+T100371,2025-06-25,C1080,Male,25-34,Social,Electronics,Mobile,6.9,6,0.061,0,1,244.24
+T100372,2025-02-08,C1113,Female,25-34,Email,Electronics,Mobile,6.4,1,0.072,0,1,239.82
+T100373,2025-06-19,C1039,Male,55+,Social,Beauty,Mobile,9.0,0,0.074,1,1,43.54
+T100374,2025-09-04,C1300,Female,25-34,Email,Electronics,Mobile,5.8,5,0.091,0,2,418.96
+T100375,2025-01-26,C1223,Male,35-44,Email,Home,Tablet,6.8,4,0.106,1,1,96.95
+T100376,2025-12-21,C1317,Male,35-44,Organic Search,Fashion,Tablet,1.8,3,0.064,0,2,108.83
+T100377,2025-11-02,C1114,Male,35-44,Paid Search,Fashion,Desktop,7.3,5,0.04,0,1,108.26
+T100378,2025-01-13,C1185,Male,45-54,Email,Electronics,Mobile,,0,0.125,0,1,158.65
+T100379,2025-11-12,,Female,25-34,Email,Fitness,Desktop,2.7,4,0.053,1,1,99.28
+T100380,2025-11-09,C1055,Female,35-44,Email,Beauty,Desktop,9.3,2,0.097,0,2,
+T100381,2025-02-05,C1039,Male,45-54,Referral,Fashion,Desktop,6.4,5,0.09,1,1,68.01
+T100382,2025-06-22,C1039,Female,25-34,Email,Electronics,Mobile,1.3,3,0.072,0,2,527.73
+T100383,2025-01-20,C1236,Female,25-34,Email,Electronics,Mobile,4.5,2,0.1,1,4,942.66
+T100384,2025-11-17,C1288,Female,35-44,Paid Search,Electronics,Mobile,6.5,5,0.046,1,4,752.51
+T100385,2025-09-21,C1261,Male,45-54,Paid Search,Home,Mobile,6.6,1,0.131,0,2,155.85
+T100386,2025-05-22,C1215,Female,18-24,Referral,Home,Desktop,5.3,3,0.161,0,2,181.36
+T100387,2025-05-23,C1146,Male,45-54,Email,Fashion,Desktop,0.3,1,0.119,0,1,32.26
+T100388,2025-04-02,C1167,,45-54,Organic Search,Fitness,Mobile,5.1,4,0.058,0,2,199.73
+T100389,2025-12-20,C1091,Female,25-34,Social,Home,Mobile,9.2,2,0.012,1,1,145.53
+T100390,2025-11-18,C1058,Female,55+,Referral,Home,Mobile,10.0,3,0.096,0,3,279.31
+T100391,2025-10-15,C1058,Female,45-54,Organic Search,Electronics,Mobile,5.0,4,0.043,0,1,227.77
+T100392,2025-08-03,C1303,Male,45-54,Social,Fashion,Mobile,11.2,1,0.07,1,1,67.49
+T100393,2025-12-08,C1168,Female,45-54,Email,Fashion,Desktop,2.5,4,0.128,0,1,101.39
+T100394,2025-02-20,C1268,Female,18-24,Paid Search,Fashion,Mobile,4.5,1,0.131,1,1,97.33
+T100395,2025-06-02,C1044,Female,25-34,Paid Search,Fashion,Desktop,,4,0.134,0,1,83.52
+T100396,2025-07-05,C1180,Male,25-34,Referral,Electronics,Mobile,8.3,2,0.085,1,1,206.57
+T100397,2025-03-04,C1169,Female,25-34,Email,Electronics,Mobile,6.5,3,0.109,0,2,323.41
+T100398,2025-07-09,C1190,Male,25-34,Email,Beauty,Mobile,3.7,7,0.022,0,1,42.53
+T100399,2025-05-05,C1154,Male,45-54,Paid Search,Fashion,Desktop,3.7,1,0.037,0,1,88.52
+T100400,2025-05-30,C1187,Female,45-54,Email,Electronics,Mobile,4.7,2,0.073,0,2,255.81
+T100401,2025-11-10,C1006,Male,35-44,Email,Electronics,Desktop,3.8,6,0.107,0,1,180.41
+T100402,2025-02-27,C1132,Female,45-54,Referral,Fashion,Mobile,6.8,5,0.069,0,1,81.31
+T100403,2025-12-08,C1234,Male,45-54,Paid Search,Electronics,Desktop,6.3,1,0.106,1,2,485.64
+T100404,2025-11-01,C1044,Male,25-34,Organic Search,Home,Desktop,3.6,2,0.047,0,2,232.87
+T100405,2025-06-29,C1313,Male,25-34,Social,Fitness,Mobile,5.6,1,0.085,1,1,86.4
+T100406,2025-06-19,C1248,Female,35-44,Paid Search,Electronics,Desktop,0.3,3,0.098,0,1,242.8
+T100407,2025-11-22,C1030,Female,35-44,Email,Electronics,Mobile,7.3,3,0.105,1,1,241.4
+T100408,2025-09-28,C1022,Female,25-34,Email,Fashion,Desktop,8.3,3,0.068,0,1,62.87
+T100409,2025-02-23,C1159,Female,35-44,Paid Search,Fitness,Mobile,4.2,3,0.083,0,1,111.5
+T100410,2025-04-11,C1157,Female,18-24,Organic Search,Fashion,Mobile,4.5,7,0.036,0,3,129.07
+T100411,2025-09-21,C1038,Female,45-54,Paid Search,Home,Desktop,7.1,2,0.079,0,2,226.12
+T100412,2025-02-22,C1081,Female,45-54,Email,Electronics,Desktop,6.8,0,0.114,0,2,412.86
+T100413,2025-03-01,C1257,Female,35-44,Organic Search,Fitness,Mobile,8.4,7,0.074,0,1,87.24
+T100414,2025-04-18,C1205,Male,55+,Referral,Beauty,Desktop,4.6,0,0.06,1,2,83.88
+T100415,2025-01-05,C1076,Male,45-54,,Electronics,Mobile,4.8,3,0.105,1,1,216.93
+T100416,2025-04-13,C1011,Female,55+,Social,Fashion,Mobile,5.9,1,0.151,0,1,70.9
+T100417,2025-07-15,C1294,Female,55+,Social,Electronics,Desktop,3.8,7,0.147,1,1,101.32
+T100418,2025-09-19,C1223,Female,45-54,Paid Search,Electronics,Mobile,5.9,4,0.09,1,1,137.63
+T100419,2025-12-31,C1012,Non-binary,35-44,Social,Electronics,Mobile,3.9,2,0.105,1,3,574.24
+T100420,2025-12-16,C1045,Female,18-24,Email,Home,Desktop,7.5,2,0.131,0,1,83.69
+T100421,2025-02-16,C1154,Male,25-34,Social,Home,Mobile,4.2,3,0.089,0,1,121.79
+T100422,2025-12-21,C1112,,35-44,Social,Beauty,Desktop,7.1,4,0.096,0,1,40.64
+T100423,2025-11-07,C1232,Male,25-34,Email,Fitness,Mobile,10.1,2,0.072,1,2,203.18
+T100424,2025-11-04,C1016,Male,25-34,Social,Fashion,Mobile,7.6,2,0.153,0,1,62.6
+T100425,2025-05-24,C1222,Male,55+,Referral,Electronics,Mobile,6.9,6,0.104,0,1,203.19
+T100426,2025-09-26,C1187,,45-54,Paid Search,Electronics,Desktop,3.1,4,0.074,0,1,183.62
+T100427,2025-05-04,C1162,Male,45-54,Social,Electronics,Desktop,10.0,4,0.065,0,1,193.41
+T100428,2025-04-16,C1073,Male,25-34,Email,Electronics,Mobile,9.3,3,0.026,1,1,226.93
+T100429,2025-06-07,C1232,Male,18-24,Organic Search,Fitness,Mobile,6.1,4,0.035,0,1,168.83
+T100430,2025-05-27,C1223,Male,18-24,Organic Search,Fitness,Desktop,5.5,1,0.06,1,1,87.08
+T100431,2025-05-25,C1318,Male,25-34,Organic Search,Fashion,Mobile,4.5,3,0.11,1,1,
+T100432,2025-04-30,C1059,Female,18-24,Referral,Electronics,Desktop,11.0,1,0.092,0,4,782.65
+T100433,2025-11-15,C1221,Female,18-24,Referral,Home,Mobile,8.5,3,0.044,0,2,266.55
+T100434,2025-10-02,C1036,Female,55+,Social,Beauty,Desktop,4.6,0,0.054,1,1,46.8
+T100435,2025-04-02,C1277,Female,35-44,Paid Search,Electronics,Mobile,9.2,4,0.09,0,1,151.23
+T100436,2025-02-27,C1195,Female,25-34,Referral,Fitness,Desktop,9.8,5,0.132,0,1,70.65
+T100437,2025-12-12,C1241,Female,18-24,Email,Fashion,Desktop,6.4,2,0.049,0,1,79.4
+T100438,2025-08-17,,Male,35-44,Referral,Home,Mobile,5.6,2,0.096,1,3,277.19
+T100439,2025-04-27,C1218,Female,18-24,Paid Search,Fitness,Mobile,4.0,1,0.069,1,2,316.5
+T100440,2025-11-14,C1191,Male,55+,Email,Beauty,Desktop,8.3,2,0.07,0,1,44.87
+T100441,2025-10-06,C1016,Female,25-34,Social,Electronics,Desktop,5.4,8,0.047,0,1,198.11
+T100442,2025-05-07,C1011,Female,25-34,Paid Search,Beauty,Mobile,5.3,5,0.101,0,1,28.45
+T100443,2025-05-09,C1192,Male,25-34,Paid Search,Home,Mobile,6.5,1,0.067,1,1,118.09
+T100444,2025-02-27,C1021,Male,18-24,Paid Search,Electronics,Desktop,4.5,2,0.071,0,1,244.02
+T100445,2025-05-02,C1119,Female,35-44,Email,Fitness,Mobile,10.3,2,0.112,1,1,104.17
+T100446,2025-01-01,C1209,Male,35-44,Email,Fashion,Desktop,8.9,5,0.113,0,3,189.78
+T100447,2025-08-27,C1305,Male,35-44,Email,Home,Mobile,6.7,3,0.06,1,1,100.73
+T100448,2025-10-17,C1269,Female,18-24,Paid Search,Home,Desktop,4.4,3,0.091,0,1,93.73
+T100449,2025-04-06,C1191,Female,35-44,Email,Fashion,Desktop,4.5,2,0.109,1,2,163.4
+T100450,2025-05-06,C1174,,35-44,Social,Fashion,Tablet,4.4,3,0.076,0,1,90.56
+T100451,2025-04-28,C1284,Male,45-54,Paid Search,Fitness,Mobile,3.4,2,0.102,1,1,151.13
+T100452,2025-02-17,C1203,Male,25-34,Referral,Electronics,Desktop,7.3,0,0.072,0,1,208.52
+T100453,2025-03-30,C1163,Male,25-34,Referral,Fashion,Mobile,4.9,4,0.072,0,1,82.83
+T100454,2025-08-25,C1250,Female,35-44,Paid Search,Electronics,Desktop,4.8,5,0.054,0,3,592.27
+T100455,2025-09-29,C1226,Female,35-44,Social,Fitness,Mobile,4.5,3,0.133,1,3,401.87
+T100456,2025-07-08,C1006,Female,25-34,Social,Electronics,Mobile,9.0,5,0.067,1,3,626.04
+T100457,2025-07-11,C1028,Male,25-34,Referral,Fitness,Tablet,,3,0.058,0,2,210.28
+T100458,2025-03-10,C1032,Male,25-34,Organic Search,Electronics,Mobile,9.7,1,0.051,1,1,232.86
+T100459,2025-10-05,C1133,Male,45-54,Email,Home,Desktop,5.8,6,0.085,1,3,272.1
+T100460,2025-12-15,C1078,Female,25-34,Social,Home,Desktop,3.4,7,0.051,1,4,452.8
+T100461,2025-09-04,C1057,Female,55+,Organic Search,Electronics,Desktop,7.7,5,0.061,1,1,142.08
+T100462,2025-03-17,C1025,Male,35-44,Organic Search,Fitness,Mobile,8.7,3,0.106,1,1,98.27
+T100463,2025-06-03,C1225,Male,55+,Paid Search,Fashion,Mobile,4.4,6,0.095,0,1,94.65
+T100464,2025-05-24,C1284,Male,45-54,Referral,Fashion,Desktop,6.7,2,0.042,1,1,110.24
+T100465,2025-03-27,C1003,Female,25-34,Referral,Electronics,Mobile,7.3,1,0.104,1,1,204.79
+T100466,2025-07-04,C1098,Male,45-54,Email,Fitness,Mobile,6.7,3,0.083,1,3,438.99
+T100467,2025-10-12,C1038,Female,18-24,Email,Fitness,Mobile,5.4,3,0.116,0,3,239.36
+T100468,2025-08-08,C1270,Non-binary,55+,Email,Home,Mobile,8.7,4,0.125,0,1,81.16
+T100469,2025-03-10,C1284,Female,35-44,Social,Electronics,Desktop,5.9,6,0.034,0,1,190.89
+T100470,2025-02-16,C1156,Male,18-24,Social,Fitness,Mobile,5.0,4,0.105,1,2,95.97
+T100471,2025-04-04,C1074,Female,35-44,Organic Search,Fashion,Mobile,2.1,4,0.131,1,2,151.36
+T100472,2025-08-26,C1287,Non-binary,55+,Paid Search,Fitness,Mobile,2.1,5,0.088,0,1,71.5
+T100473,2025-07-23,C1129,Male,18-24,Organic Search,Home,Mobile,7.0,2,0.103,1,2,144.25
+T100474,2025-08-06,C1174,Female,35-44,Paid Search,Beauty,Mobile,,5,0.089,1,3,126.35
+T100475,2025-12-07,C1083,Female,45-54,Organic Search,Electronics,Mobile,8.7,1,0.111,1,3,461.19
+T100476,2025-02-08,C1021,Female,45-54,Social,Fitness,Mobile,9.3,2,0.094,0,1,99.55
+T100477,2025-04-10,C1026,Female,25-34,Referral,Fitness,Desktop,5.9,6,0.021,1,1,64.21
+T100478,2025-10-16,C1194,Non-binary,25-34,Referral,Electronics,Mobile,8.9,1,0.078,0,3,554.71
+T100479,2025-09-11,C1235,Female,18-24,Referral,Fashion,Mobile,5.1,4,0.076,1,1,86.62
+T100480,2025-08-10,C1091,Male,35-44,Paid Search,Electronics,Mobile,6.1,4,0.103,0,2,392.23
+T100481,2025-12-23,C1020,Male,25-34,Organic Search,Fashion,Mobile,6.1,4,0.117,0,1,85.35
+T100482,2025-01-23,C1302,Male,55+,Social,Home,Tablet,10.4,4,0.075,1,1,89.0
+T100483,2025-09-07,C1083,Female,18-24,Referral,Electronics,Mobile,3.3,3,0.045,0,1,211.32
+T100484,2025-01-10,C1261,Female,35-44,Email,Home,Mobile,6.6,3,0.091,0,1,68.06
+T100485,2025-09-03,C1146,Male,18-24,Paid Search,Home,Mobile,4.8,2,0.059,1,3,140.88
+T100486,2025-11-21,C1256,,25-34,Email,Electronics,Tablet,5.8,4,0.064,0,1,188.18
+T100487,2025-04-10,C1057,Female,25-34,Organic Search,Beauty,Mobile,5.6,2,0.153,0,3,121.73
+T100488,2025-10-17,C1014,Female,25-34,Paid Search,Beauty,Desktop,6.7,2,0.062,0,3,165.14
+T100489,2025-06-29,C1161,Male,35-44,Paid Search,Fitness,Mobile,9.9,3,0.035,0,1,128.56
+T100490,2025-08-11,C1162,,55+,Email,Electronics,Tablet,11.3,5,0.1,0,2,327.28
+T100491,2025-09-07,C1319,Female,35-44,Paid Search,Beauty,Desktop,8.1,7,0.103,0,1,52.56
+T100492,2025-05-27,C1280,Female,55+,Referral,Electronics,Mobile,4.1,4,0.108,1,2,522.35
+T100493,2025-04-06,C1279,Male,45-54,Paid Search,Fitness,Mobile,6.1,4,0.107,0,1,124.84
+T100494,2025-09-14,C1011,Female,35-44,Social,Electronics,Mobile,7.2,2,0.086,0,1,290.38
+T100495,2025-11-21,C1273,Female,45-54,Organic Search,Fashion,Mobile,5.5,5,0.087,0,1,62.47
+T100496,2025-01-04,C1270,Male,35-44,Referral,Fitness,Mobile,5.8,2,0.11,0,2,272.29
+T100497,2025-01-16,C1207,Male,18-24,Email,Beauty,Mobile,6.3,2,0.13,1,3,131.65
+T100498,2025-10-07,C1026,Female,45-54,Referral,Home,Mobile,8.4,2,0.044,1,1,99.26
+T100499,2025-12-02,C1071,Male,18-24,Organic Search,Electronics,Desktop,7.8,2,0.064,0,1,157.92
+T100500,2025-09-04,C1059,Female,35-44,Referral,Home,Mobile,5.0,5,0.101,0,1,82.34
+T100501,2025-09-15,C1144,Male,35-44,Referral,Fashion,Mobile,8.0,3,0.09,0,2,146.52
+T100502,2025-06-09,C1092,Male,18-24,Paid Search,Fashion,Mobile,10.8,2,0.028,1,1,95.72
+T100503,2025-12-06,C1308,Male,25-34,Email,Electronics,Tablet,2.7,7,0.065,1,2,482.2
+T100504,2025-06-01,C1007,Female,55+,Paid Search,Beauty,Mobile,5.4,1,0.091,0,1,21.38
+T100505,2025-06-27,C1078,Male,35-44,Organic Search,Fitness,Desktop,5.2,6,0.082,0,1,93.39
+T100506,2025-06-12,C1026,Male,25-34,Email,Fitness,Mobile,6.7,7,0.071,1,2,281.64
+T100507,2025-02-02,C1173,Male,35-44,Email,Electronics,Mobile,1.9,6,0.152,1,2,466.89
+T100508,2025-06-28,C1049,Male,35-44,Organic Search,Electronics,Mobile,9.9,5,0.081,1,2,632.62
+T100509,2025-04-11,C1198,Female,35-44,Email,Electronics,Mobile,6.6,3,0.089,0,1,175.24
+T100510,2025-09-25,C1180,Male,55+,Email,Fashion,Desktop,7.2,3,0.086,0,3,137.37
+T100511,2025-11-19,C1023,Male,35-44,Paid Search,Beauty,Desktop,7.0,3,0.088,0,1,36.19
+T100512,2025-03-06,C1315,Female,25-34,Email,Beauty,Mobile,5.2,0,0.083,1,3,117.89
+T100513,2025-06-17,C1045,Male,45-54,Paid Search,Fashion,Tablet,8.2,1,0.02,1,1,80.4
+T100514,2025-11-26,C1014,Female,45-54,Organic Search,Fitness,Mobile,6.5,1,0.052,0,1,70.23
+T100515,2025-02-12,C1152,Female,18-24,Paid Search,Fashion,Tablet,1.3,3,0.073,0,1,69.86
+T100516,2025-02-13,C1221,Female,25-34,Referral,Home,Tablet,6.2,8,0.106,0,1,78.86
+T100517,2025-10-12,C1205,Female,25-34,Organic Search,Electronics,Mobile,5.8,2,0.073,0,1,272.58
+T100518,2025-01-12,C1272,Female,35-44,Organic Search,Fashion,Mobile,8.2,3,0.057,0,2,121.22
+T100519,2025-04-05,C1235,Male,35-44,Paid Search,Home,Mobile,13.3,2,0.11,1,2,236.81
+T100520,2025-10-29,C1227,Female,35-44,Social,Electronics,Desktop,7.4,3,0.123,0,4,847.92
+T100521,2025-09-10,C1008,Male,55+,Referral,Home,Mobile,11.8,5,0.036,0,1,99.49
+T100522,2025-08-30,C1165,Male,45-54,Referral,Electronics,Tablet,4.8,7,0.085,1,1,236.37
+T100523,2025-02-04,C1318,Male,18-24,Social,Beauty,Desktop,4.9,2,0.005,0,2,90.6
+T100524,2025-08-03,C1213,Male,25-34,Email,Fashion,Mobile,,4,0.073,0,1,96.14
+T100525,2025-12-03,C1116,Female,25-34,Paid Search,Fashion,Mobile,7.6,3,0.139,0,1,44.62
+T100526,2025-03-31,C1071,Male,25-34,Email,Fashion,Desktop,4.9,2,0.085,1,2,157.14
+T100527,2025-09-21,C1063,Female,35-44,Referral,Electronics,Mobile,2.5,2,0.041,1,1,236.18
+T100528,2025-04-03,C1204,Female,45-54,Social,Home,Desktop,6.6,0,0.041,0,1,93.51
+T100529,2025-03-31,C1208,Non-binary,25-34,Social,Electronics,Mobile,3.6,4,0.054,0,3,592.48
+T100530,2025-04-25,C1071,Female,35-44,Paid Search,Fashion,Mobile,9.3,1,0.062,0,1,82.88
+T100531,2025-04-15,C1276,Female,45-54,Social,Home,Mobile,8.1,3,0.025,1,3,407.34
+T100532,2025-07-15,C1273,Male,25-34,Paid Search,Fitness,Desktop,4.6,1,0.092,1,1,92.46
+T100533,2025-11-10,C1319,Male,25-34,Email,electronics,Mobile,7.6,3,0.098,1,2,230.64
+T100534,2025-04-24,C1094,Male,25-34,Paid Search,Home,Desktop,5.1,0,0.071,0,1,109.33
+T100535,2025-03-16,C1165,Female,18-24,Organic Search,Home,Mobile,6.4,4,0.143,1,2,135.77
+T100536,2025-08-05,C1031,Male,55+,Organic Search,Fashion,Desktop,6.4,3,0.069,1,1,83.02
+T100537,2025-10-04,C1010,Female,18-24,Referral,Fashion,Desktop,5.7,1,0.118,1,2,116.62
+T100538,2025-09-06,C1300,Male,25-34,Email,Home,Mobile,8.6,0,0.04,1,1,166.35
+T100539,2025-06-13,C1216,Non-binary,35-44,Organic Search,Beauty,Desktop,3.7,5,0.091,0,1,44.59
+T100540,2025-12-23,C1288,Male,55+,Organic Search,Fashion,Mobile,7.8,3,0.096,0,2,151.92
+T100541,2025-07-11,C1101,Male,25-34,Paid Search,Electronics,Mobile,7.3,5,0.061,0,1,105.81
+T100542,2025-08-15,C1266,Female,18-24,Social,Home,Mobile,3.0,3,0.087,0,1,75.57
+T100543,2025-06-26,C1213,Male,18-24,Social,Electronics,Desktop,4.5,4,0.06,1,1,179.43
+T100544,2025-04-09,C1178,Male,18-24,Social,Beauty,Desktop,3.8,4,0.073,1,1,67.19
+T100545,2025-02-05,C1087,Female,25-34,Referral,Electronics,Mobile,5.6,5,0.074,1,1,252.66
+T100546,2025-04-06,C1040,Male,35-44,Social,Home,Mobile,6.6,2,0.04,0,1,63.83
+T100547,2025-06-01,C1075,Female,25-34,Paid Search,Electronics,Desktop,4.2,2,0.098,0,1,234.34
+T100548,2025-05-31,C1045,Male,18-24,,Beauty,Mobile,8.9,3,0.1,1,1,38.22
+T100549,2025-07-09,C1159,Male,45-54,Paid Search,Fashion,Desktop,9.1,5,0.071,0,1,48.5
+T100550,2025-08-12,C1079,Male,25-34,Paid Search,Fashion,Mobile,9.6,2,0.089,0,1,76.98
+T100551,2025-02-06,C1309,Female,25-34,Email,Fashion,Tablet,0.3,2,0.054,1,3,273.74
+T100552,2025-09-25,C1085,Male,25-34,Social,Fitness,Desktop,11.4,1,0.044,1,3,351.42
+T100553,2025-07-02,C1091,Male,55+,Social,Electronics,Desktop,6.9,3,0.07,0,1,274.79
+T100554,2025-01-13,C1147,Male,25-34,Paid Search,Electronics,Desktop,6.6,0,0.103,1,1,217.95
+T100555,2025-10-06,C1160,Female,45-54,Social,Fashion,Mobile,6.2,1,0.08,1,3,244.0
+T100556,2025-08-05,C1201,Female,45-54,Referral,Home,Mobile,3.2,6,0.069,1,1,
+T100557,2025-12-21,C1241,Male,18-24,Email,Electronics,Mobile,7.4,1,0.092,1,1,282.77
+T100558,2025-12-27,C1001,Female,55+,Paid Search,Fitness,Desktop,10.5,5,0.055,0,1,71.37
+T100559,2025-10-13,C1224,Male,25-34,Social,Home,Desktop,6.9,2,0.045,1,2,275.03
+T100560,2025-09-30,C1288,Male,18-24,Paid Search,Electronics,Desktop,3.7,5,0.071,0,1,231.64
+T100561,2025-03-03,C1232,Male,45-54,Organic Search,Fashion,Mobile,2.7,3,0.056,0,2,225.93
+T100562,2025-03-25,C1076,Male,35-44,Email,Fashion,Mobile,5.8,0,0.046,1,2,170.23
+T100563,2025-08-05,C1115,Male,35-44,Paid Search,Home,Mobile,4.6,1,0.109,0,1,102.21
+T100564,2025-12-08,C1153,Female,18-24,Social,Fashion,Desktop,8.3,3,0.148,1,2,159.02
+T100565,2025-07-06,C1102,Female,25-34,Social,Fitness,Mobile,9.9,0,0.035,1,1,124.36
+T100566,2025-01-19,C1193,Female,45-54,Social,Fitness,Mobile,7.7,1,0.07,1,1,96.51
+T100567,2025-06-26,C1165,Female,25-34,Referral,Electronics,Desktop,6.3,0,0.087,1,1,148.38
+T100568,2025-04-10,C1089,Male,25-34,Social,Electronics,Desktop,6.2,4,0.03,0,1,187.5
+T100569,2025-08-21,C1173,Male,18-24,Social,Fitness,Mobile,6.7,2,0.075,0,1,93.97
+T100570,2025-03-17,C1121,Male,25-34,Email,electronics,Mobile,3.6,2,0.077,0,1,53.43
+T100571,2025-09-22,C1142,Male,45-54,Organic Search,Fitness,Desktop,8.0,4,0.096,0,1,76.22
+T100572,2025-10-11,C1105,,25-34,Email,Electronics,Mobile,3.8,4,0.059,0,1,231.03
+T100573,2025-07-25,C1304,Male,55+,Social,Electronics,Desktop,9.3,4,0.065,1,1,153.12
+T100574,2025-08-11,C1316,Male,25-34,Paid Search,Fashion,Mobile,5.6,1,0.111,1,2,169.1
+T100575,2025-02-21,C1122,Male,35-44,Organic Search,Electronics,Desktop,8.6,3,0.095,1,1,154.49
+T100576,2025-12-05,C1008,Female,25-34,Paid Search,Beauty,Mobile,2.8,2,0.104,1,1,51.11
+T100577,2025-05-24,C1261,Female,25-34,Social,Electronics,Mobile,8.6,1,0.029,1,1,191.88
+T100578,2025-03-10,C1072,Female,25-34,Referral,Electronics,Desktop,9.9,0,0.062,0,1,134.6
+T100579,2025-04-09,C1222,Non-binary,25-34,Paid Search,Fitness,Desktop,3.3,5,0.127,0,1,45.63
+T100580,2025-01-25,C1040,Male,35-44,Referral,Fitness,Mobile,6.2,1,0.079,0,1,108.15
+T100581,2025-02-22,C1203,Female,55+,Paid Search,Home,Desktop,7.3,2,0.078,1,1,160.13
+T100582,2025-05-31,C1263,Male,35-44,Organic Search,Electronics,Mobile,7.5,1,0.08,0,1,299.91
+T100583,2025-05-24,C1177,Male,25-34,Referral,Fashion,Desktop,5.7,3,0.129,1,3,297.32
+T100584,2025-02-26,C1317,Female,18-24,Paid Search,Electronics,Desktop,5.2,4,0.06,1,3,338.55
+T100585,2025-02-08,C1083,Female,18-24,Referral,Beauty,Mobile,7.1,6,0.102,0,1,55.96
+T100586,2025-04-19,C1317,Male,35-44,Email,Fashion,Desktop,7.4,2,0.09,0,2,173.4
+T100587,2025-06-30,C1110,Female,45-54,Email,Electronics,Mobile,4.9,2,0.041,0,1,163.9
+T100588,2025-02-11,C1250,Female,55+,Referral,electronics,Mobile,4.4,3,0.073,0,1,88.59
+T100589,2025-07-05,C1006,Male,18-24,Email,Electronics,Tablet,9.5,2,0.057,1,2,540.2
+T100590,2025-08-11,C1083,Male,35-44,Referral,Beauty,Desktop,6.8,1,0.044,1,1,64.13
+T100591,2025-05-02,C1207,Male,25-34,Referral,Home,Mobile,0.8,1,0.118,1,1,65.76
+T100592,2025-05-13,C1313,Female,35-44,Email,Fashion,Mobile,9.5,2,0.045,1,1,59.94
+T100593,2025-06-12,C1021,Female,35-44,,Electronics,Mobile,5.0,3,0.104,1,1,150.2
+T100594,2025-08-03,C1002,Female,35-44,Email,Home,Tablet,6.7,6,0.056,1,1,105.29
+T100595,2025-08-09,C1126,Male,35-44,Paid Search,Fashion,Mobile,7.4,2,0.123,0,1,111.46
+T100596,2025-08-23,C1296,Male,18-24,Email,Beauty,Mobile,2.8,0,0.069,1,1,49.26
+T100597,2025-11-27,C1187,Female,45-54,Paid Search,Beauty,Mobile,5.8,2,0.092,0,1,37.48
+T100598,2025-05-26,C1013,Male,18-24,Paid Search,Electronics,Mobile,9.8,3,0.065,0,2,393.05
+T100599,2025-08-27,C1011,Female,35-44,Paid Search,Fitness,Mobile,9.2,2,0.017,0,1,112.62
+T100600,2025-03-17,C1086,Female,25-34,Referral,Electronics,Mobile,5.8,2,0.032,1,2,204.79
+T100601,2025-01-09,C1011,Female,35-44,Social,Electronics,Mobile,8.3,7,0.025,0,2,442.35
+T100602,2025-03-15,C1024,Female,55+,Social,Beauty,Mobile,8.6,0,0.09,0,2,80.79
+T100603,2025-09-10,C1300,Male,45-54,Organic Search,Home,Desktop,8.5,1,0.081,1,2,186.11
+T100604,2025-08-18,C1242,Male,45-54,Social,Fashion,Mobile,3.6,4,0.1,1,1,102.86
+T100605,2025-01-07,C1121,Female,35-44,Paid Search,Fashion,Desktop,10.6,3,0.062,1,1,74.67
+T100606,2025-06-23,C1146,Male,35-44,Social,Fitness,Desktop,5.3,4,0.017,1,1,76.19
+T100607,2025-05-21,C1054,Female,35-44,Referral,Fashion,Desktop,6.8,1,0.121,1,3,158.93
+T100608,2025-06-17,C1237,Male,45-54,Paid Search,Fitness,Desktop,5.6,3,0.112,1,1,105.72
+T100609,2025-06-19,C1172,Non-binary,25-34,Social,Electronics,Mobile,7.1,5,0.093,0,1,166.76
+T100610,2025-10-10,C1220,Female,55+,Social,Fashion,Mobile,4.3,3,0.115,1,1,79.43
+T100611,2025-05-02,C1118,Male,55+,Referral,Electronics,Mobile,5.9,3,0.079,1,4,735.21
+T100612,2025-07-13,C1308,Female,45-54,Social,Home,Mobile,7.0,3,0.09,0,1,127.69
+T100613,2025-01-05,C1182,Female,25-34,Paid Search,Fashion,Desktop,9.6,4,0.061,0,1,83.05
+T100614,2025-01-29,C1287,Female,18-24,Paid Search,Beauty,Desktop,9.3,2,0.05,0,1,26.44
+T100615,2025-06-14,C1306,Male,45-54,Email,Fashion,Desktop,9.4,3,0.035,1,3,327.39
+T100616,2025-12-05,C1299,Male,25-34,Social,Electronics,Mobile,8.7,4,0.059,0,1,255.49
+T100617,2025-05-16,C1081,Female,45-54,Email,Fitness,Desktop,11.1,3,0.162,1,1,110.03
+T100618,2025-12-31,C1210,Male,25-34,Referral,Electronics,Mobile,5.8,0,0.036,1,1,211.91
+T100619,2025-11-17,C1149,Male,25-34,Email,Fitness,Mobile,6.1,2,0.054,1,1,88.14
+T100620,2025-12-08,C1036,Male,55+,Email,Fashion,Mobile,6.0,4,0.085,1,3,240.47
+T100621,2025-05-25,C1311,Male,35-44,Organic Search,Beauty,Desktop,6.3,1,0.154,0,1,56.62
+T100622,2025-11-23,C1058,Male,35-44,Social,Electronics,Mobile,2.9,6,0.051,0,1,265.29
+T100623,2025-08-05,C1130,Female,35-44,Email,Electronics,Tablet,7.2,3,0.063,0,2,395.32
+T100624,2025-10-28,C1201,Female,25-34,Paid Search,Electronics,Desktop,7.7,2,0.102,1,3,914.44
+T100625,2025-05-12,C1242,,45-54,Organic Search,Fitness,Desktop,5.9,5,0.1,0,1,97.06
+T100626,2025-10-19,C1034,Female,25-34,Email,Fashion,Mobile,,3,0.061,0,1,62.22
+T100627,2025-03-11,C1092,,55+,Email,Electronics,Desktop,6.6,3,0.057,0,2,273.43
+T100628,2025-09-09,C1206,Male,45-54,Social,Fitness,Desktop,3.3,2,0.095,1,1,146.12
+T100629,2025-10-02,C1304,Female,25-34,Organic Search,Fashion,Mobile,7.6,0,0.073,0,3,256.53
+T100630,2025-12-30,C1212,Female,35-44,Email,Beauty,Mobile,6.8,5,0.091,1,3,85.77
+T100631,2025-07-01,C1158,Female,35-44,Social,Fitness,Mobile,7.0,4,0.077,0,1,90.62
+T100632,2025-06-16,C1023,Non-binary,25-34,Referral,Fashion,Mobile,3.8,3,0.093,0,3,202.0
+T100633,2025-04-01,C1292,Female,55+,Organic Search,Electronics,Mobile,9.7,5,0.096,0,1,150.24
+T100634,2025-07-21,C1003,Female,18-24,Organic Search,Home,Tablet,6.9,3,0.024,0,1,58.63
+T100635,2025-12-12,C1219,Female,25-34,Referral,Electronics,Mobile,4.2,1,0.068,1,1,167.29
+T100636,2025-01-19,C1019,Female,35-44,Referral,Fashion,Mobile,7.9,1,0.092,0,3,211.49
+T100637,2025-02-08,C1151,Male,35-44,Social,Fashion,Tablet,6.7,4,0.106,1,1,64.29
+T100638,2025-05-06,C1049,Female,35-44,Paid Search,Fashion,Mobile,11.1,3,0.072,1,1,92.7
+T100639,2025-06-22,C1176,Male,45-54,Organic Search,electronics,Desktop,5.1,1,0.027,1,3,758.09
+T100640,2025-05-21,C1095,Female,35-44,Social,Home,Mobile,3.4,1,0.119,1,1,85.48
+T100641,2025-08-30,C1104,Female,35-44,Email,Electronics,Mobile,7.2,1,0.108,0,1,124.9
+T100642,2025-08-08,C1249,Male,18-24,Paid Search,Electronics,Mobile,9.0,2,0.085,1,2,376.67
+T100643,2025-05-06,C1116,Female,25-34,Social,Fitness,Mobile,12.3,3,0.068,1,2,237.19
+T100644,2025-02-27,C1227,,25-34,Social,Fashion,Mobile,15.0,1,0.1,1,3,197.11
+T100645,2025-05-28,C1065,Male,25-34,Paid Search,Fashion,Desktop,2.6,2,0.068,1,3,189.75
+T100646,2025-11-13,C1261,Female,35-44,Social,Fitness,Mobile,6.2,2,0.108,0,1,92.43
+T100647,2025-12-27,C1294,Male,25-34,Email,Electronics,Desktop,3.4,4,0.136,1,1,255.42
+T100648,2025-01-01,C1242,Female,25-34,Paid Search,Electronics,Mobile,5.9,2,0.067,1,1,112.9
+T100649,2025-12-14,C1185,Female,25-34,Social,Home,Mobile,12.7,3,0.105,0,2,260.36
+T100650,2025-07-09,C1245,,55+,Paid Search,Fashion,Desktop,4.5,4,0.062,1,1,56.86
+T100651,2025-07-10,C1124,Male,55+,Email,Fashion,Mobile,6.4,4,0.113,1,2,142.22
+T100652,2025-11-08,C1267,,35-44,Referral,Home,Desktop,5.0,1,0.075,0,1,126.37
+T100653,2025-04-27,C1130,Male,55+,Email,Home,Tablet,4.0,4,0.125,0,1,103.07
+T100654,2025-05-14,C1236,Male,45-54,Paid Search,Electronics,Desktop,11.0,2,0.074,1,1,250.21
+T100655,2025-02-27,C1017,Female,35-44,Referral,electronics,Mobile,2.7,4,0.055,0,1,114.05
+T100656,2025-02-13,C1039,Female,18-24,Social,Home,Desktop,6.3,8,0.072,0,1,57.7
+T100657,2025-06-22,C1020,Male,45-54,,Electronics,Desktop,6.7,4,0.075,0,1,274.91
+T100658,2025-06-09,C1224,Female,35-44,Referral,Home,Desktop,6.4,1,0.089,0,1,109.79
+T100659,2025-06-22,C1281,Male,35-44,Email,Fashion,Mobile,5.7,5,0.072,1,1,91.65
+T100660,2025-11-13,C1007,Male,45-54,Social,Beauty,Mobile,10.5,4,0.089,0,2,74.79
+T100661,2025-10-30,C1099,Female,35-44,Organic Search,Electronics,Mobile,1.2,1,0.09,1,2,252.19
+T100662,2025-05-29,C1239,Male,35-44,Social,Electronics,Mobile,7.6,5,0.069,1,1,236.24
+T100663,2025-03-21,C1086,Male,55+,Organic Search,Beauty,Mobile,7.7,1,0.092,0,2,35.39
+T100664,2025-08-01,C1297,Female,25-34,Organic Search,Home,Mobile,7.2,3,0.064,0,1,111.37
+T100665,2025-07-22,C1013,Male,35-44,Organic Search,Home,Desktop,4.4,4,0.142,1,1,70.75
+T100666,2025-09-09,C1001,Male,25-34,Organic Search,Beauty,Tablet,9.5,5,0.091,0,1,52.24
+T100667,2025-08-17,C1292,Female,35-44,Social,Beauty,Desktop,9.4,2,0.1,0,1,51.31
+T100668,2025-06-13,,Male,45-54,Organic Search,Fashion,Mobile,4.3,1,0.076,1,2,191.61
+T100669,2025-08-15,C1040,,18-24,Organic Search,Home,Mobile,3.5,0,0.06,1,1,84.43
+T100670,2025-05-27,C1317,Female,35-44,Paid Search,Fashion,Tablet,3.0,0,0.107,1,3,179.5
+T100671,2025-01-20,C1315,Male,25-34,Organic Search,Home,Tablet,7.1,7,0.092,1,1,58.26
+T100672,2025-02-16,C1110,Female,35-44,Social,Electronics,Tablet,6.6,4,0.005,1,1,295.0
+T100673,2025-08-21,C1013,Male,25-34,Social,Beauty,Desktop,,2,0.14,1,3,154.0
+T100674,2025-11-01,C1230,Male,45-54,Social,Beauty,Mobile,11.7,4,0.104,1,1,60.99
+T100675,2025-01-14,C1083,Female,18-24,Referral,Fashion,Desktop,5.3,2,0.071,0,1,74.49
+T100676,2025-05-23,C1129,Female,35-44,Social,Fitness,Mobile,7.0,2,0.1,0,1,106.37
+T100677,2025-01-01,C1230,Male,25-34,Organic Search,Fashion,Mobile,6.0,1,0.095,1,1,79.24
+T100678,2025-02-23,C1144,Male,45-54,Social,Fashion,Desktop,11.4,7,0.097,1,1,100.05
+T100679,2025-09-16,C1027,Male,55+,Referral,Fitness,Mobile,1.5,3,0.056,0,1,77.09
+T100680,2025-05-24,C1065,Female,55+,,Beauty,Mobile,5.7,4,0.084,0,1,43.64
+T100681,2025-01-12,C1162,Male,45-54,Social,Beauty,Mobile,8.0,3,0.091,0,1,78.8
+T100682,2025-11-26,C1228,Male,45-54,Social,Fashion,Mobile,5.9,2,0.119,1,1,79.07
+T100683,2025-08-12,C1260,Male,25-34,Organic Search,Fashion,Desktop,3.2,2,0.085,1,1,44.39
+T100684,2025-09-29,C1163,Female,25-34,Paid Search,Electronics,Mobile,6.9,4,0.095,1,1,183.48
+T100685,2025-12-24,C1300,Male,25-34,Paid Search,Fashion,Mobile,2.4,1,0.055,1,1,60.16
+T100686,2025-06-05,C1302,Male,45-54,Referral,Electronics,Mobile,8.2,7,0.084,1,1,208.66
+T100687,2025-01-08,C1286,Female,55+,Social,Home,Mobile,5.5,1,0.108,0,1,68.37
+T100688,2025-05-02,C1009,Female,25-34,Organic Search,Electronics,Mobile,5.0,4,0.061,0,1,171.61
+T100689,2025-12-14,C1194,Female,55+,Referral,Fitness,Desktop,9.1,2,0.07,0,1,93.85
+T100690,2025-06-13,C1117,Male,35-44,Organic Search,Fashion,Mobile,4.0,2,0.053,1,1,88.35
+T100691,2025-03-31,C1269,Male,35-44,Organic Search,Home,Desktop,2.6,7,0.041,0,1,73.27
+T100692,2025-05-16,C1079,Female,25-34,Social,Electronics,Tablet,,4,0.056,1,1,217.43
+T100693,2025-07-05,C1092,Male,18-24,Social,Home,Desktop,11.6,4,0.099,1,1,173.33
+T100694,2025-11-12,C1265,Male,35-44,Email,Fitness,Mobile,4.0,4,0.075,0,1,70.87
+T100695,2025-06-27,C1256,Female,35-44,Organic Search,electronics,Mobile,7.4,3,0.056,1,1,119.19
+T100696,2025-01-28,C1132,Non-binary,25-34,Organic Search,Electronics,Desktop,8.6,6,0.147,1,1,92.81
+T100697,2025-08-08,C1275,Non-binary,35-44,Paid Search,Electronics,Mobile,4.2,1,0.061,0,1,184.44
+T100698,2025-12-23,C1263,Male,45-54,Organic Search,Beauty,Desktop,4.2,3,0.101,0,1,42.01
+T100699,2025-02-10,C1170,Female,45-54,Paid Search,Electronics,Desktop,7.0,5,0.092,1,3,545.69
+T100700,2025-08-16,C1000,Male,55+,Email,Fitness,Tablet,7.1,5,0.089,0,2,136.04
+T100701,2025-07-11,C1312,Male,25-34,Paid Search,Electronics,Tablet,9.9,4,0.027,0,2,356.99
+T100702,2025-05-25,C1063,Female,25-34,Email,Fitness,Mobile,4.6,2,0.12,1,2,362.6
+T100703,2025-07-20,C1283,Male,45-54,Organic Search,Electronics,Mobile,5.6,3,0.092,1,1,230.22
+T100704,2025-07-31,C1120,Male,25-34,Referral,Beauty,Tablet,13.6,2,0.11,0,1,44.92
+T100705,2025-08-08,C1106,Male,18-24,Social,Home,Mobile,2.0,1,0.116,1,1,128.31
+T100706,2025-08-28,C1174,Female,25-34,Paid Search,Fitness,Mobile,1.5,0,0.133,1,1,164.25
+T100707,2025-02-15,C1203,Male,25-34,Email,Fashion,Desktop,3.0,2,0.052,0,1,63.48
+T100708,2025-02-04,C1164,Non-binary,25-34,Email,Fashion,Desktop,9.3,2,0.06,1,2,124.06
+T100709,2025-09-10,C1304,Female,25-34,Organic Search,Beauty,Desktop,5.4,3,0.065,0,2,80.85
+T100710,2025-03-23,C1119,Male,25-34,Email,Beauty,Desktop,5.4,1,0.056,0,1,53.59
+T100711,2025-09-13,C1043,Male,18-24,Organic Search,Fashion,Mobile,4.1,3,0.122,1,1,45.28
+T100712,2025-07-16,C1311,Female,35-44,Paid Search,Fitness,Tablet,8.8,5,0.052,1,1,131.44
+T100713,2025-10-30,C1155,Female,35-44,Social,Electronics,Desktop,3.1,7,0.071,0,2,
+T100714,2025-01-10,C1206,Male,35-44,Paid Search,Fashion,Desktop,5.0,4,0.033,1,2,138.38
+T100715,2025-11-08,C1107,Male,25-34,Paid Search,Home,Mobile,4.2,6,0.104,1,4,530.72
+T100716,2025-10-13,C1250,Male,25-34,Social,Electronics,Mobile,0.3,1,0.078,1,1,260.34
+T100717,2025-08-30,C1129,Male,35-44,Paid Search,Home,Desktop,5.3,7,0.108,0,1,132.82
+T100718,2025-09-08,C1292,,35-44,Email,Electronics,Mobile,6.4,2,0.103,1,1,202.25
+T100719,2025-12-31,C1019,Female,35-44,Organic Search,Beauty,Mobile,4.6,3,0.033,0,1,42.87
+T100720,2025-01-05,C1281,Female,25-34,Organic Search,Electronics,Desktop,5.8,2,0.088,0,3,677.62
+T100721,2025-04-29,C1284,Male,55+,Social,Electronics,Mobile,5.9,5,0.049,1,4,1106.81
+T100722,2025-10-16,C1000,Female,25-34,Paid Search,Electronics,Mobile,6.2,3,0.086,1,1,218.51
+T100723,2025-03-06,C1118,Female,25-34,Paid Search,Beauty,Mobile,3.9,3,0.064,1,1,55.25
+T100724,2025-05-26,C1034,Female,35-44,Paid Search,Fitness,Mobile,3.7,4,0.137,0,1,113.66
+T100725,2025-08-12,C1197,Female,35-44,Email,Home,Desktop,6.6,2,0.162,0,2,262.71
+T100726,2025-08-27,C1244,Female,25-34,Referral,Electronics,Mobile,2.8,4,0.075,1,1,175.62
+T100727,2025-06-26,C1058,,25-34,Social,Electronics,Mobile,6.0,5,0.085,0,1,244.38
+T100728,2025-09-24,,Female,45-54,Paid Search,Fashion,Desktop,10.6,3,0.013,1,1,121.02
+T100729,2025-12-07,C1160,Male,25-34,Organic Search,Beauty,Tablet,6.4,5,0.033,0,1,41.78
+T100730,2025-10-09,C1178,Male,18-24,Email,Home,Desktop,1.9,3,0.094,1,3,271.98
+T100731,2025-03-04,C1205,Non-binary,25-34,Referral,Electronics,Mobile,6.9,1,0.081,1,1,182.6
+T100732,2025-08-05,C1011,Female,45-54,Email,Fitness,Mobile,8.5,8,0.095,1,1,121.78
+T100733,2025-12-08,C1275,Male,18-24,Email,Beauty,Desktop,4.5,2,0.058,1,1,26.45
+T100734,2025-11-11,C1180,Male,55+,Organic Search,Electronics,Mobile,5.8,3,0.091,1,1,179.45
+T100735,2025-10-10,C1241,Male,35-44,Organic Search,Electronics,Desktop,4.3,4,0.006,0,2,338.33
+T100736,2025-06-26,C1215,Male,55+,Organic Search,Home,Mobile,5.3,7,0.064,0,1,78.25
+T100737,2025-04-08,C1250,Male,55+,Email,Fashion,Mobile,4.8,3,0.096,1,1,72.0
+T100738,2025-04-15,C1298,Female,25-34,Paid Search,Fashion,Desktop,7.6,2,0.133,0,2,134.93
+T100739,2025-04-09,C1125,Male,25-34,Organic Search,Fitness,Desktop,10.6,3,0.078,1,1,124.6
+T100740,2025-11-07,C1216,Male,25-34,Email,Fitness,Desktop,6.6,3,0.1,0,1,106.25
+T100741,2025-01-06,C1305,Male,25-34,Referral,Electronics,Mobile,2.6,3,0.062,0,1,247.45
+T100742,2025-07-16,C1284,,35-44,Email,Beauty,Mobile,12.8,6,0.095,0,1,46.86
+T100743,2025-12-17,C1184,Female,25-34,Organic Search,Fitness,Mobile,8.0,1,0.067,1,1,87.16
+T100744,2025-05-13,C1038,,25-34,Social,Electronics,Mobile,8.5,4,0.141,1,2,388.12
+T100745,2025-12-24,C1222,Female,25-34,Paid Search,Fashion,Mobile,6.3,4,0.072,1,1,73.64
+T100746,2025-09-16,C1183,Female,55+,Organic Search,Electronics,Mobile,7.1,5,0.077,1,1,212.92
+T100747,2025-01-23,C1177,Female,25-34,Social,Home,Mobile,5.6,0,0.105,0,1,105.44
+T100748,2025-02-22,C1293,Female,18-24,Email,Fitness,Tablet,8.8,4,0.097,0,1,116.68
+T100749,2025-06-14,C1150,Male,18-24,Referral,Fitness,Desktop,5.3,3,0.071,1,1,130.76
+T100750,2025-07-21,C1125,Female,55+,Organic Search,Fitness,Tablet,7.7,2,0.094,1,2,213.27
+T100751,2025-03-24,C1300,Female,35-44,Paid Search,Electronics,Mobile,8.9,1,0.05,0,1,212.1
+T100752,2025-05-25,C1307,Non-binary,25-34,Paid Search,Fashion,Tablet,9.6,4,0.089,1,1,87.41
+T100753,2025-03-26,C1233,Male,25-34,Paid Search,Beauty,Mobile,9.1,4,0.098,0,1,27.18
+T100754,2025-03-19,C1007,Male,25-34,Social,Beauty,Mobile,3.9,3,0.069,0,1,49.33
+T100755,2025-01-01,C1128,Male,18-24,Social,Fashion,Desktop,10.4,6,0.071,1,2,169.74
+T100756,2025-02-20,C1263,Male,55+,Social,Fitness,Mobile,8.2,4,0.063,0,1,122.66
+T100757,2025-06-22,C1156,Female,45-54,Referral,Electronics,Mobile,7.3,0,0.039,0,1,98.95
+T100758,2025-07-24,C1004,Female,25-34,,Fitness,Mobile,7.6,1,0.094,0,3,278.71
+T100759,2025-09-17,C1085,Male,45-54,Organic Search,Electronics,Mobile,6.1,1,0.068,0,1,184.23
+T100760,2025-10-15,C1174,Female,25-34,Paid Search,Electronics,Desktop,5.3,5,0.099,1,1,134.59
+T100761,2025-02-03,C1289,Male,35-44,Organic Search,Home,Desktop,5.6,3,0.077,1,1,93.39
+T100762,2025-12-14,C1192,Female,45-54,Email,Fashion,Desktop,9.7,1,0.1,1,4,504.01
+T100763,2025-04-05,C1310,Female,25-34,Social,Electronics,Mobile,6.7,6,0.031,1,4,1388.26
+T100764,2025-03-13,C1118,Male,45-54,Paid Search,Fitness,Desktop,7.2,6,0.048,0,1,115.53
+T100765,2025-02-08,C1217,Male,25-34,Email,Electronics,Mobile,6.7,4,0.057,0,1,213.02
+T100766,2025-06-03,C1113,Male,25-34,Email,Fitness,Mobile,4.8,2,0.118,0,3,364.1
+T100767,2025-09-07,C1144,Male,18-24,Paid Search,Beauty,Tablet,1.1,1,0.094,0,1,56.66
+T100768,2025-06-11,C1025,Female,25-34,Organic Search,Fitness,Mobile,8.4,4,0.074,0,1,84.88
+T100769,2025-04-28,C1135,Female,35-44,Organic Search,Electronics,Desktop,8.2,1,0.068,1,2,379.72
+T100770,2025-09-16,C1302,Male,55+,Organic Search,Fitness,Mobile,6.5,4,0.1,1,1,102.46
+T100771,2025-11-02,C1231,Male,35-44,Organic Search,Fashion,Desktop,3.8,1,0.064,0,1,63.5
+T100772,2025-09-25,C1075,Female,45-54,Social,Fitness,Desktop,11.1,3,0.104,1,2,198.25
+T100773,2025-02-23,C1301,Male,45-54,Email,Beauty,Mobile,5.6,1,0.076,0,1,56.43
+T100774,2025-08-24,C1288,Female,25-34,Email,Fashion,Mobile,7.1,1,0.121,1,1,113.65
+T100775,2025-08-10,C1000,Male,25-34,Organic Search,Electronics,Desktop,4.7,4,0.054,1,1,235.51
+T100776,2025-09-08,C1146,Female,18-24,Organic Search,Fitness,Mobile,3.1,1,0.078,0,1,124.02
+T100777,2025-11-09,C1286,Male,35-44,Email,Fashion,Mobile,8.0,7,0.054,0,1,94.41
+T100778,2025-04-22,C1141,Male,55+,Paid Search,Electronics,Desktop,2.7,6,0.131,1,1,232.45
+T100779,2025-09-12,C1052,Female,18-24,Email,Home,Mobile,7.1,1,0.083,1,1,75.95
+T100780,2025-10-30,C1303,Male,35-44,Organic Search,Electronics,Desktop,7.1,2,0.052,1,3,845.33
+T100781,2025-07-26,C1068,Female,35-44,Paid Search,Beauty,Mobile,3.7,2,0.055,1,1,
+T100782,2025-08-17,C1089,Female,35-44,Organic Search,Fitness,Mobile,3.3,2,0.097,1,2,232.73
+T100783,2025-12-07,C1219,Female,25-34,Social,Home,Desktop,4.6,1,0.027,0,2,178.13
+T100784,2025-03-07,C1191,Female,25-34,Paid Search,Home,Mobile,4.9,2,0.077,0,2,158.39
+T100785,2025-03-16,C1062,Female,18-24,Referral,Electronics,Mobile,2.7,3,0.056,0,1,164.82
+T100786,2025-04-13,C1072,Male,25-34,Organic Search,Home,Mobile,3.7,1,0.077,0,2,244.22
+T100787,2025-07-11,C1160,Male,18-24,Organic Search,Electronics,Mobile,6.7,2,0.085,0,1,155.23
+T100788,2025-09-09,C1168,Male,35-44,Social,Fashion,Mobile,11.5,2,0.079,1,1,83.4
+T100789,2025-08-14,C1088,Female,18-24,Social,Electronics,Mobile,9.0,0,0.074,1,1,181.65
+T100790,2025-10-21,C1175,Female,45-54,Organic Search,Fashion,Mobile,6.9,1,0.087,0,2,160.66
+T100791,2025-11-02,C1268,Female,35-44,Paid Search,Beauty,Mobile,9.3,5,0.134,1,1,62.25
+T100792,2025-04-08,C1072,Female,35-44,Email,Home,Desktop,9.4,3,0.12,0,1,72.96
+T100793,2025-12-04,C1244,Male,25-34,Email,Fitness,Desktop,5.7,2,0.072,0,2,188.58
+T100794,2025-10-13,C1076,Female,35-44,Paid Search,Beauty,Mobile,7.1,5,0.104,1,3,91.72
+T100795,2025-12-01,C1158,Male,55+,Paid Search,Beauty,Desktop,8.9,4,0.102,1,1,61.56
+T100796,2025-12-13,,Male,18-24,Paid Search,Electronics,Desktop,9.3,0,0.071,0,1,262.31
+T100797,2025-11-04,C1097,Female,25-34,Email,Home,Mobile,9.3,3,0.081,0,1,63.62
+T100798,2025-09-06,C1101,Male,45-54,Social,Electronics,Desktop,3.9,2,0.098,1,1,192.52
+T100799,2025-06-15,C1131,Male,18-24,Referral,Electronics,Mobile,9.4,5,0.06,0,1,206.1
+T100800,2025-12-01,C1101,Male,18-24,Referral,electronics,Desktop,11.1,5,0.075,0,1,85.72
+T100801,2025-01-30,C1018,Male,25-34,Organic Search,Electronics,Mobile,10.2,1,0.076,1,1,171.17
+T100802,2025-09-04,C1081,Male,18-24,Social,Electronics,Mobile,3.8,4,0.074,0,3,403.98
+T100803,2025-04-16,C1278,Female,35-44,Referral,Electronics,Desktop,3.2,5,0.073,0,1,195.64
+T100804,2025-02-20,C1128,Female,25-34,Paid Search,Electronics,Mobile,7.7,6,0.095,0,1,248.88
+T100805,2025-03-22,C1309,Female,45-54,Paid Search,Electronics,Mobile,10.2,2,0.083,1,2,481.5
+T100806,2025-05-13,C1088,Male,45-54,Referral,Fashion,Desktop,7.1,3,0.101,1,1,73.37
+T100807,2025-10-12,C1212,Female,35-44,Organic Search,Electronics,Mobile,5.9,2,0.158,0,1,193.86
+T100808,2025-05-18,C1142,Non-binary,35-44,Organic Search,Fitness,Desktop,6.3,8,0.066,0,2,170.11
+T100809,2025-07-03,C1064,Male,45-54,Email,Electronics,Desktop,9.1,3,0.089,0,1,165.66
+T100810,2025-11-26,C1075,Female,25-34,Email,Fashion,Mobile,5.7,5,0.097,0,1,87.5
+T100811,2025-09-30,C1198,Female,45-54,Social,Electronics,Mobile,7.7,4,0.115,0,1,97.99
+T100812,2025-12-06,C1142,Male,45-54,Organic Search,Fashion,Desktop,6.2,8,0.095,1,1,93.94
+T100813,2025-03-10,C1315,Male,45-54,Paid Search,Fitness,Mobile,4.3,3,0.049,0,1,103.23
+T100814,2025-02-03,C1092,Male,35-44,Email,Electronics,Desktop,4.1,5,0.062,0,2,369.38
+T100815,2025-09-19,C1304,Female,25-34,Organic Search,Fashion,Mobile,7.8,3,0.086,0,1,81.2
+T100816,2025-02-22,C1223,Female,25-34,Organic Search,Beauty,Mobile,0.3,5,0.061,0,1,51.66
+T100817,2025-07-24,C1290,Female,45-54,Email,Electronics,Mobile,7.7,3,0.038,0,1,162.02
+T100818,2025-05-06,C1101,Female,18-24,Referral,Fashion,Desktop,6.1,2,0.058,0,3,179.66
+T100819,2025-08-23,C1266,Male,45-54,Email,Fashion,Mobile,8.9,3,0.058,1,4,513.81
+T100820,2025-02-12,C1109,Male,25-34,Paid Search,Beauty,Mobile,8.0,5,0.052,1,1,55.06
+T100821,2025-08-28,C1264,Male,18-24,Social,Home,Mobile,6.6,2,0.158,0,2,277.62
+T100822,2025-04-21,C1002,Male,18-24,Paid Search,Fashion,Mobile,3.8,3,0.091,1,2,147.11
+T100823,2025-09-06,C1084,Male,18-24,Social,Fitness,Mobile,4.0,1,0.085,0,1,104.07
+T100824,2025-05-31,C1281,Male,35-44,Social,Fashion,Mobile,4.9,5,0.11,0,1,98.1
+T100825,2025-07-02,C1303,Female,25-34,Social,Fitness,Mobile,8.7,1,0.136,1,1,116.44
+T100826,2025-12-02,C1116,Non-binary,55+,Email,Electronics,Mobile,10.9,3,0.094,0,2,410.4
+T100827,2025-04-05,C1220,Female,35-44,Email,Fashion,Mobile,7.3,2,0.113,1,2,237.07
+T100828,2025-01-08,C1153,Non-binary,18-24,Paid Search,Electronics,Desktop,5.0,5,0.067,1,2,458.79
+T100829,2025-12-26,C1152,Male,35-44,Organic Search,Electronics,Desktop,5.3,6,0.055,1,1,249.28
+T100830,2025-07-03,C1011,Female,45-54,Social,Beauty,Mobile,5.4,1,0.109,1,1,56.71
+T100831,2025-10-08,C1132,Male,45-54,Social,Beauty,Mobile,9.1,6,0.109,0,2,101.57
+T100832,2025-07-14,C1303,Male,18-24,Social,Electronics,Mobile,5.4,3,0.106,1,2,202.61
+T100833,2025-12-18,C1292,Male,45-54,Referral,Fashion,Desktop,6.4,4,0.086,1,1,82.41
+T100834,2025-07-14,C1299,Male,45-54,Social,Home,Mobile,9.9,2,0.059,1,2,151.73
+T100835,2025-06-04,C1227,Non-binary,18-24,Paid Search,Home,Mobile,5.1,4,0.068,0,1,104.74
+T100836,2025-04-03,C1270,Female,18-24,Paid Search,Fashion,Desktop,7.9,3,0.117,1,2,78.07
+T100837,2025-06-09,C1042,Female,35-44,Social,Home,Mobile,8.8,2,0.064,0,1,121.47
+T100838,2025-03-02,C1301,Non-binary,18-24,Email,Electronics,Mobile,6.7,3,0.088,1,1,192.63
+T100839,2025-05-02,C1020,Male,45-54,Email,Electronics,Mobile,11.4,2,0.059,0,2,273.37
+T100840,2025-02-20,C1106,Female,25-34,Organic Search,Fashion,Desktop,10.7,4,0.076,1,1,91.31
+T100841,2025-10-04,C1302,Female,55+,Social,Electronics,Mobile,7.2,0,0.05,0,2,389.92
+T100842,2025-01-05,C1116,Male,35-44,Email,Home,Desktop,4.5,1,0.08,0,1,139.56
+T100843,2025-04-02,C1123,Non-binary,25-34,Social,Beauty,Desktop,4.6,2,0.068,0,2,103.99
+T100844,2025-06-19,C1280,Male,18-24,Social,Beauty,Mobile,7.0,1,0.031,0,3,106.51
+T100845,2025-11-13,C1291,Male,35-44,Organic Search,Electronics,Mobile,3.8,3,0.102,0,1,221.28
+T100846,2025-01-22,C1202,Female,45-54,Email,Beauty,Mobile,7.2,2,0.1,0,1,35.2
+T100847,2025-11-22,C1050,Female,45-54,Email,Home,Desktop,10.7,2,0.084,1,1,98.65
+T100848,2025-01-01,C1270,Male,25-34,Social,Fashion,Desktop,6.7,2,0.048,1,1,97.98
+T100849,2025-05-13,,Female,25-34,Social,Electronics,Mobile,6.5,0,0.049,1,1,266.17
+T100850,2025-08-21,C1276,Female,18-24,Referral,Home,Desktop,8.6,4,0.152,0,2,153.5
+T100851,2025-01-12,C1140,Female,35-44,Organic Search,Home,Mobile,7.8,5,0.005,0,3,276.74
+T100852,2025-12-12,C1274,Male,18-24,Email,Home,Mobile,3.6,5,0.049,0,2,195.77
+T100853,2025-02-15,C1289,Non-binary,25-34,Email,Fitness,Desktop,5.4,7,0.146,1,1,108.93
+T100854,2025-02-03,C1051,Female,35-44,Social,Electronics,Desktop,11.2,2,0.156,1,2,542.06
+T100855,2025-03-19,C1026,Male,55+,Email,Electronics,Mobile,7.3,4,0.133,0,2,311.51
+T100856,2025-08-06,C1156,Male,25-34,Paid Search,Fitness,Desktop,4.0,3,0.098,0,1,81.77
+T100857,2025-10-28,C1238,,25-34,Organic Search,Beauty,Tablet,,1,0.063,1,1,62.22
+T100858,2025-03-14,C1155,Female,35-44,Email,Home,Desktop,2.0,4,0.032,1,1,99.69
+T100859,2025-10-09,C1290,Male,35-44,Paid Search,Electronics,Desktop,1.9,1,0.094,1,2,575.6
+T100860,2025-09-06,C1135,Female,25-34,Paid Search,Electronics,Desktop,9.0,1,0.059,1,1,226.41
+T100861,2025-02-16,C1143,Male,55+,Paid Search,Electronics,Mobile,,4,0.126,0,2,713.09
+T100862,2025-05-01,C1105,Male,45-54,Email,Electronics,Desktop,7.8,2,0.026,0,1,204.38
+T100863,2025-08-02,C1157,Female,25-34,Social,Beauty,Mobile,9.4,2,0.088,0,3,118.16
+T100864,2025-08-27,C1145,Male,25-34,Social,Fashion,Desktop,7.3,1,0.11,0,1,58.18
+T100865,2025-02-25,C1001,Male,35-44,Paid Search,Home,Mobile,8.3,5,0.112,0,1,57.75
+T100866,2025-12-16,C1076,Female,45-54,Social,Home,Desktop,7.1,2,0.107,0,1,59.8
+T100867,2025-04-17,C1131,Male,18-24,Paid Search,Electronics,Mobile,9.7,4,0.092,0,1,153.88
+T100868,2025-11-15,C1089,Female,35-44,Organic Search,Home,Mobile,10.9,2,0.086,0,2,156.84
+T100869,2025-02-17,C1262,Male,35-44,Referral,Electronics,Mobile,7.0,5,0.109,0,3,252.44
+T100870,2025-03-02,C1107,Female,25-34,Social,Fashion,Tablet,6.9,2,0.092,0,1,97.89
+T100871,2025-12-03,C1073,Male,35-44,Social,Fitness,Tablet,7.3,3,0.093,0,1,120.1
+T100872,2025-01-26,C1038,Female,55+,Email,Fashion,Mobile,6.2,4,0.083,1,1,98.79
+T100873,2025-10-19,C1158,Male,18-24,Email,Fashion,Tablet,5.5,4,0.07,1,1,69.41
+T100874,2025-09-14,C1070,Male,25-34,Referral,Beauty,Desktop,9.1,4,0.042,0,1,64.3
+T100875,2025-01-08,C1311,Male,25-34,Paid Search,Beauty,Desktop,5.5,2,0.047,0,2,76.86
+T100876,2025-04-23,C1240,Male,45-54,Paid Search,Electronics,Mobile,5.4,4,0.071,0,3,441.01
+T100877,2025-12-21,C1297,Male,55+,Social,Beauty,Desktop,8.7,1,0.078,1,1,55.57
+T100878,2025-09-10,C1035,Female,25-34,Social,Fashion,Mobile,8.9,4,0.053,0,1,78.51
+T100879,2025-06-29,C1083,Female,45-54,Referral,Electronics,Desktop,12.3,5,0.051,0,1,95.45
+T100880,2025-07-26,C1262,Non-binary,35-44,Paid Search,Fashion,Desktop,9.5,0,0.071,1,1,91.88
+T100881,2025-10-30,C1309,Female,35-44,Referral,Home,Desktop,8.6,3,0.109,0,1,87.25
+T100882,2025-05-07,C1171,Male,25-34,Email,Fashion,Desktop,8.9,1,0.018,0,1,64.17
+T100883,2025-02-25,C1172,,25-34,Email,Fashion,Mobile,6.1,2,0.054,0,1,49.65
+T100884,2025-08-02,C1046,Female,25-34,Organic Search,Fitness,Mobile,7.9,4,0.087,0,1,80.24
+T100885,2025-01-14,C1140,Male,35-44,Email,Fitness,Mobile,8.0,0,0.121,0,1,105.74
+T100886,2025-01-28,C1117,Male,18-24,Paid Search,Home,Mobile,5.1,2,0.147,1,1,111.15
+T100887,2025-03-19,C1276,Male,55+,,Fashion,Desktop,6.4,1,0.072,0,1,63.1
+T100888,2025-08-04,C1213,Female,18-24,Paid Search,Fashion,Desktop,8.9,3,0.071,1,3,254.98
+T100889,2025-12-31,C1219,Female,25-34,Email,Fashion,Desktop,6.5,4,0.078,0,2,125.9
+T100890,2025-06-03,C1025,Male,35-44,Paid Search,Fitness,Mobile,8.0,0,0.089,0,2,154.33
+T100891,2025-01-14,C1008,Male,35-44,Paid Search,Fitness,Mobile,8.7,3,0.081,0,1,99.48
+T100892,2025-07-06,C1270,Male,18-24,Organic Search,Fashion,Mobile,8.6,2,0.085,0,1,61.72
+T100893,2025-11-08,C1009,Male,25-34,Social,Beauty,Mobile,10.8,2,0.042,0,1,72.21
+T100894,2025-01-07,C1120,Female,55+,Social,Fashion,Mobile,5.0,3,0.032,0,1,51.69
+T100895,2025-01-03,C1124,Male,25-34,Paid Search,Beauty,Desktop,10.6,3,0.103,1,2,95.19
+T100896,2025-04-21,C1169,Female,25-34,Social,Electronics,Mobile,7.7,2,0.076,0,1,185.95
+T100897,2025-08-26,C1071,Non-binary,45-54,Email,Home,Desktop,8.6,0,0.107,0,1,86.15
+T100898,2025-12-29,C1151,Male,18-24,Paid Search,Home,Mobile,8.2,1,0.089,0,1,121.76
+T100899,2025-08-27,C1207,Male,25-34,Social,Electronics,Desktop,8.1,7,0.039,0,1,73.63
+T100900,2025-10-01,C1048,Non-binary,25-34,Paid Search,Electronics,Desktop,4.9,2,0.129,0,4,785.22
+T100901,2025-10-21,C1153,Female,25-34,Referral,Beauty,Tablet,8.5,3,0.083,0,1,37.59
+T100902,2025-08-15,C1292,Male,25-34,Organic Search,Electronics,Desktop,2.9,1,0.06,0,1,203.13
+T100903,2025-01-15,C1067,Female,18-24,Social,Home,Tablet,11.7,1,0.066,0,1,86.02
+T100904,2025-07-11,C1049,Male,25-34,Paid Search,Fitness,Desktop,7.5,3,0.046,1,4,418.58
+T100905,2025-04-29,C1151,Female,18-24,Paid Search,Fashion,Desktop,9.4,5,0.092,0,1,51.41
+T100906,2025-01-28,C1018,Male,45-54,Paid Search,Fitness,Mobile,8.2,1,0.079,0,1,87.41
+T100907,2025-07-21,C1099,Male,25-34,Social,Fashion,Mobile,6.6,0,0.143,1,1,132.41
+T100908,2025-02-08,C1059,Female,25-34,Organic Search,Fitness,Mobile,5.1,3,0.098,1,2,306.58
+T100909,2025-09-30,C1166,Female,45-54,Referral,Home,Desktop,4.7,8,0.141,1,1,117.25
+T100910,2025-08-19,C1201,Male,35-44,Paid Search,Fitness,Mobile,8.4,4,0.053,0,1,87.65
+T100911,2025-03-27,C1145,Female,18-24,Email,Fitness,Desktop,8.3,5,0.072,1,3,259.12
+T100912,2025-05-06,C1163,Female,55+,Paid Search,Home,Tablet,7.9,5,0.109,1,4,445.85
+T100913,2025-10-27,C1241,Female,25-34,Organic Search,Electronics,Mobile,6.2,3,0.1,0,1,104.61
+T100914,2025-01-25,C1068,Female,18-24,Referral,Fitness,Mobile,7.5,2,0.082,1,2,215.16
+T100915,2025-05-25,C1174,Male,45-54,Paid Search,Electronics,Tablet,5.4,4,0.05,0,1,195.83
+T100916,2025-01-13,C1048,Male,35-44,,Fitness,Mobile,4.8,2,0.017,1,2,277.6
+T100917,2025-07-31,C1107,Female,25-34,Paid Search,Electronics,Desktop,5.8,4,0.075,1,1,237.54
+T100918,2025-01-25,C1225,Female,25-34,Organic Search,Beauty,Mobile,5.9,6,0.077,1,1,47.36
+T100919,2025-03-09,C1160,Female,35-44,Referral,Beauty,Desktop,10.2,4,0.086,1,3,171.47
+T100920,2025-03-08,C1118,Female,25-34,Paid Search,Electronics,Mobile,3.1,4,0.039,0,2,428.19
+T100921,2025-08-21,C1148,Female,55+,Paid Search,Home,Desktop,6.4,7,0.056,0,1,105.01
+T100922,2025-04-19,C1149,Female,25-34,Referral,Fitness,Mobile,8.1,2,0.094,1,2,264.15
+T100923,2025-05-26,C1292,Female,45-54,Referral,Fashion,Mobile,11.5,1,0.1,1,1,108.35
+T100924,2025-04-21,C1142,Male,35-44,Organic Search,Fashion,Mobile,5.0,3,0.088,1,2,147.22
+T100925,2025-08-16,C1159,Female,45-54,Organic Search,Beauty,Mobile,3.7,6,0.072,1,2,134.23
+T100926,2025-04-21,C1010,Male,35-44,Paid Search,Fitness,Tablet,8.3,5,0.046,1,1,117.2
+T100927,2025-02-03,C1137,Male,35-44,Organic Search,Home,Desktop,6.9,1,0.111,1,2,161.19
+T100928,2025-04-21,C1077,Male,25-34,Social,Home,Mobile,5.9,2,0.104,0,1,133.65
+T100929,2025-09-21,C1076,Male,25-34,Social,Electronics,Mobile,7.6,5,0.065,0,1,273.6
+T100930,2025-08-24,C1253,Male,25-34,Paid Search,Beauty,Mobile,8.7,8,0.107,1,1,60.04
+T100931,2025-03-24,C1257,Male,45-54,,Home,Desktop,8.3,5,0.08,0,1,99.32
+T100932,2025-02-11,C1319,Male,45-54,Paid Search,Electronics,Desktop,7.3,4,0.062,0,2,296.25
+T100933,2025-04-11,C1290,Male,25-34,Email,Fitness,Mobile,9.8,4,0.11,0,1,78.97
+T100934,2025-01-06,C1262,Male,18-24,Email,Fitness,Desktop,7.0,3,0.085,1,1,132.48
+T100935,2025-06-29,C1084,Male,25-34,Paid Search,Home,Desktop,6.6,1,0.069,1,2,224.91
+T100936,2025-10-09,C1145,Female,35-44,Email,Electronics,Tablet,8.3,4,0.044,1,1,194.69
+T100937,2025-11-16,,Female,25-34,Email,Home,Tablet,3.3,1,0.046,0,1,93.95
+T100938,2025-08-14,C1041,Female,45-54,Organic Search,Home,Desktop,8.0,2,0.107,1,1,106.26
+T100939,2025-11-11,C1124,Male,55+,Email,Fitness,Desktop,5.7,4,0.096,1,2,216.97
+T100940,2025-12-31,C1166,Male,25-34,Email,Home,Mobile,3.2,1,0.047,0,1,47.0
+T100941,2025-08-17,C1240,Non-binary,25-34,Paid Search,Fitness,Desktop,7.6,5,0.046,0,1,147.02
+T100942,2025-10-16,C1279,Male,25-34,Paid Search,Fashion,Mobile,5.4,3,0.145,0,1,73.76
+T100943,2025-05-30,C1187,Male,25-34,Organic Search,Electronics,Mobile,2.5,4,0.096,1,2,610.92
+T100944,2025-10-04,C1301,Female,25-34,Email,Fashion,Mobile,4.3,2,0.118,1,1,61.18
+T100945,2025-07-17,C1018,Male,18-24,Social,Home,Desktop,10.7,3,0.127,0,3,155.92
+T100946,2025-03-11,C1067,Male,45-54,Referral,Electronics,Mobile,5.1,2,0.054,1,1,204.54
+T100947,2025-04-22,C1217,,25-34,Social,Home,Mobile,7.3,3,0.134,0,3,309.84
+T100948,2025-01-04,C1101,Female,25-34,Organic Search,Electronics,Mobile,3.8,4,0.05,0,1,155.41
+T100949,2025-12-16,C1041,Male,55+,Referral,Electronics,Mobile,11.8,1,0.104,0,1,140.58
+T100950,2025-11-27,C1287,Male,45-54,Social,Home,Mobile,6.7,2,0.079,0,3,275.87
+T100951,2025-11-14,C1166,Male,18-24,Email,Fashion,Desktop,4.8,4,0.104,0,1,70.4
+T100952,2025-12-16,C1108,Male,35-44,Paid Search,Fashion,Desktop,8.7,3,0.076,0,1,84.65
+T100953,2025-04-05,C1035,Male,25-34,Referral,Fitness,Mobile,11.6,1,0.098,0,1,113.21
+T100954,2025-06-01,C1231,Female,45-54,Paid Search,Electronics,Desktop,5.5,2,0.123,0,3,746.49
+T100955,2025-11-07,C1228,Male,35-44,Email,Fitness,Desktop,4.7,2,0.116,1,1,149.45
+T100956,2025-05-17,C1163,Male,35-44,Social,Fitness,Mobile,12.2,0,0.08,0,1,82.07
+T100957,2025-09-04,C1072,Male,25-34,,Fashion,Desktop,6.2,3,0.053,0,2,190.61
+T100958,2025-08-31,C1135,Male,45-54,,Fashion,Tablet,5.9,5,0.073,1,1,57.83
+T100959,2025-01-31,C1069,Female,18-24,Organic Search,Fashion,Mobile,1.1,3,0.095,0,2,158.77
+T100960,2025-02-09,C1195,Female,18-24,Email,Home,Mobile,6.4,8,0.102,1,1,159.2
+T100961,2025-08-17,C1268,,25-34,Social,Fitness,Tablet,3.1,3,0.114,1,2,222.15
+T100962,2025-02-05,C1048,Male,18-24,Paid Search,Electronics,Desktop,5.1,0,0.06,0,1,221.97
+T100963,2025-08-11,C1315,Male,25-34,Paid Search,Fashion,Mobile,1.5,4,0.054,1,1,75.6
+T100964,2025-01-06,C1129,Female,45-54,Social,Electronics,Mobile,9.6,4,0.051,1,1,227.56
+T100965,2025-11-18,C1004,Male,55+,Organic Search,Electronics,Mobile,2.8,4,0.076,1,1,101.43
+T100966,2025-08-08,C1026,Male,25-34,Social,Electronics,Desktop,1.6,3,0.088,1,1,208.79
+T100967,2025-03-16,C1159,Non-binary,25-34,Paid Search,Fashion,Mobile,4.2,1,0.093,0,1,89.79
+T100968,2025-01-04,C1148,Female,25-34,Paid Search,Home,Mobile,9.6,3,0.04,1,1,145.57
+T100969,2025-12-01,C1263,Male,25-34,Organic Search,Home,Desktop,,3,0.053,0,1,110.49
+T100970,2025-05-14,C1229,Male,18-24,Email,Fashion,Mobile,5.7,5,0.061,0,1,72.92
+T100971,2025-04-28,C1199,Female,55+,Paid Search,Fashion,Mobile,7.7,2,0.135,0,1,74.13
+T100972,2025-04-04,C1049,Male,25-34,Email,Home,Mobile,6.1,6,0.071,0,1,57.96
+T100973,2025-03-03,C1066,Male,25-34,Social,Electronics,Desktop,9.6,6,0.038,0,1,245.11
+T100974,2025-07-13,C1299,Non-binary,18-24,Referral,Fashion,Mobile,5.9,5,0.093,1,1,115.11
+T100975,2025-12-01,C1057,Male,45-54,Referral,Fashion,Desktop,5.9,2,0.079,1,1,50.01
+T100976,2025-07-22,C1258,Female,35-44,Paid Search,Beauty,Mobile,12.2,3,0.047,0,3,136.61
+T100977,2025-01-26,C1129,Female,55+,Paid Search,Fitness,Mobile,6.6,4,0.068,1,2,268.91
+T100978,2025-06-22,C1214,Female,45-54,Paid Search,Electronics,Mobile,7.1,3,0.072,1,1,197.38
+T100979,2025-10-27,C1171,Female,25-34,Social,Fashion,Mobile,6.0,1,0.078,0,1,71.49
+T100980,2025-05-13,C1257,Male,25-34,Email,Fitness,Desktop,0.4,4,0.11,0,2,153.45
+T100981,2025-11-22,C1101,Female,35-44,Referral,Beauty,Mobile,8.7,3,0.099,1,1,36.53
+T100982,2025-04-28,C1208,Non-binary,25-34,Paid Search,Electronics,Desktop,10.7,3,0.086,1,2,348.79
+T100983,2025-11-20,C1290,Non-binary,35-44,Referral,Fashion,Mobile,9.6,1,0.112,1,1,87.87
+T100984,2025-10-02,C1285,Male,18-24,Social,Fitness,Tablet,5.1,3,0.07,1,2,256.26
+T100985,2025-07-31,C1115,Non-binary,18-24,Social,Electronics,Desktop,6.1,1,0.06,0,1,197.39
+T100986,2025-08-13,C1263,Male,35-44,Paid Search,Fitness,Desktop,,2,0.091,0,1,114.61
+T100987,2025-01-20,C1149,Male,35-44,Email,Fitness,Mobile,7.3,2,0.089,1,1,121.58
+T100988,2025-04-23,C1299,Female,45-54,Paid Search,Beauty,Mobile,8.2,1,0.038,0,4,123.55
+T100989,2025-05-20,C1035,Female,18-24,Paid Search,Fitness,Mobile,7.0,2,0.127,1,2,242.81
+T100990,2025-02-16,C1286,Male,35-44,Email,Beauty,Tablet,5.6,1,0.051,1,1,60.64
+T100991,2025-01-01,C1302,Male,25-34,Organic Search,Fashion,Mobile,6.8,1,0.098,1,1,108.44
+T100992,2025-03-31,C1310,Male,18-24,Paid Search,Electronics,Desktop,9.0,4,0.099,1,1,237.4
+T100993,2025-05-22,C1207,Male,25-34,Organic Search,Electronics,Desktop,13.8,0,0.005,0,1,141.6
+T100994,2025-11-16,C1105,Male,25-34,Organic Search,Electronics,Mobile,5.3,5,0.089,1,1,208.89
+T100995,2025-02-07,C1157,Female,25-34,Email,Fitness,Desktop,7.1,2,0.131,1,1,63.04
+T100996,2025-10-20,C1120,,25-34,Referral,Fitness,Desktop,5.6,3,0.061,1,3,355.05
+T100997,2025-05-19,C1054,Male,25-34,,Fashion,Desktop,,3,0.025,1,2,213.86
+T100998,2025-12-22,C1011,Female,18-24,Paid Search,Fitness,Mobile,8.9,1,0.078,0,1,45.03
+T100999,2025-11-29,C1144,Male,18-24,Organic Search,Beauty,Mobile,6.0,4,0.096,1,1,78.4
+T101000,2025-09-16,C1135,Female,25-34,Social,Fashion,Mobile,1.4,3,0.079,1,3,260.93
+T101001,2025-06-10,C1002,Male,18-24,Email,Electronics,Desktop,9.1,1,0.053,0,2,296.71
+T101002,2025-06-27,C1143,Male,35-44,Paid Search,Fashion,Desktop,6.8,2,0.051,1,2,165.65
+T101003,2025-01-10,C1029,Female,25-34,Organic Search,Home,Mobile,5.6,1,0.033,1,3,219.98
+T101004,2025-09-18,C1236,Non-binary,25-34,,Fitness,Tablet,5.1,3,0.026,1,2,233.42
+T101005,2025-05-18,C1278,Male,25-34,Organic Search,Fitness,Mobile,7.3,3,0.072,0,1,113.66
+T101006,2025-06-21,C1114,Female,35-44,Referral,Fitness,Desktop,4.8,2,0.095,1,1,134.65
+T101007,2025-01-13,C1103,Female,45-54,Referral,Electronics,Tablet,5.1,4,0.087,1,3,482.53
+T101008,2025-06-17,C1117,Non-binary,45-54,Email,Home,Desktop,3.4,5,0.09,0,1,76.18
+T101009,2025-05-10,C1004,Female,35-44,Paid Search,Beauty,Desktop,4.8,0,0.101,0,1,52.41
+T101010,2025-03-25,C1247,Female,25-34,Paid Search,Fashion,Mobile,8.1,2,0.121,0,1,67.24
+T101011,2025-11-17,,Female,35-44,Paid Search,Home,Mobile,3.0,3,0.083,1,2,212.37
+T101012,2025-11-15,C1120,Female,35-44,Paid Search,Fashion,Desktop,9.4,4,0.092,1,4,406.93
+T101013,2025-04-11,C1285,Male,25-34,Email,Home,Mobile,3.6,3,0.093,0,1,80.84
+T101014,2025-11-25,C1148,Male,25-34,Referral,Beauty,Mobile,6.9,2,0.086,0,1,50.16
+T101015,2025-09-30,C1083,Female,25-34,,Fashion,Desktop,7.7,1,0.083,0,2,134.29
+T101016,2025-09-22,C1230,Male,55+,Email,Beauty,Mobile,8.6,1,0.085,1,1,46.09
+T101017,2025-02-07,C1287,Female,35-44,Paid Search,Fashion,Desktop,8.6,5,0.129,0,1,60.27
+T101018,2025-04-04,C1160,Non-binary,35-44,Paid Search,Fitness,Desktop,6.3,6,0.125,0,3,350.21
+T101019,2025-04-05,C1271,Non-binary,25-34,Paid Search,Beauty,Desktop,6.1,2,0.031,0,1,39.86
+T101020,2025-11-01,C1037,Female,25-34,Organic Search,Electronics,Desktop,8.0,4,0.089,1,1,303.54
+T101021,2025-03-10,C1225,Male,18-24,Social,Home,Desktop,7.2,4,0.082,0,1,88.05
+T101022,2025-11-14,C1141,Male,25-34,Referral,Home,Desktop,5.6,1,0.12,0,1,135.16
+T101023,2025-08-24,C1291,Female,45-54,Social,Fitness,Desktop,7.4,5,0.081,1,3,347.68
+T101024,2025-11-30,C1150,Female,35-44,Organic Search,Electronics,Mobile,6.1,4,0.09,0,1,271.99
+T101025,2025-05-17,C1113,Female,25-34,Social,Electronics,Desktop,5.0,0,0.063,0,1,236.24
+T101026,2025-03-17,C1236,Male,45-54,Paid Search,Electronics,Desktop,5.6,5,0.106,1,1,178.81
+T101027,2025-02-04,C1065,Non-binary,25-34,Organic Search,Electronics,Mobile,7.7,4,0.045,0,1,200.74
+T101028,2025-01-01,C1257,Male,55+,Organic Search,Home,Mobile,4.2,0,0.073,1,2,227.12
+T101029,2025-10-23,C1248,Male,25-34,Email,Fashion,Desktop,9.3,4,0.05,0,2,140.16
+T101030,2025-11-16,,Male,25-34,Paid Search,Fashion,Mobile,5.1,1,0.073,1,3,303.69
+T101031,2025-03-01,C1179,Male,25-34,Paid Search,Fitness,Tablet,0.9,3,0.066,0,1,152.06
+T101032,2025-11-16,C1189,Male,18-24,Referral,Fashion,Tablet,7.9,2,0.107,1,2,222.31
+T101033,2025-12-15,C1153,Female,18-24,Paid Search,Electronics,Mobile,0.3,2,0.075,0,1,176.47
+T101034,2025-11-24,C1195,Male,35-44,Paid Search,Fashion,Desktop,4.0,4,0.127,0,2,125.35
+T101035,2025-09-24,C1310,Male,45-54,Paid Search,Electronics,Mobile,12.6,1,0.075,1,2,395.45
+T101036,2025-12-27,C1261,Female,45-54,Social,Home,Desktop,,4,0.05,1,1,139.83
+T101037,2025-08-17,C1142,Male,18-24,Email,Beauty,Mobile,8.9,3,0.075,0,1,39.37
+T101038,2025-09-27,C1315,Female,35-44,Referral,Electronics,Desktop,3.7,5,0.096,1,1,279.08
+T101039,2025-11-12,C1100,Male,18-24,Referral,Fitness,Mobile,6.0,2,0.133,0,1,62.34
+T101040,2025-10-13,C1243,Male,18-24,Organic Search,Home,Mobile,9.6,3,0.063,1,3,322.96
+T101041,2025-10-18,C1011,Female,35-44,Social,Fashion,Mobile,8.1,2,0.132,0,1,96.26
+T101042,2025-08-01,C1238,Female,35-44,Email,Beauty,Mobile,9.3,9,0.076,1,1,69.97
+T101043,2025-06-14,C1048,Female,18-24,Paid Search,Electronics,Mobile,11.0,2,0.069,0,1,255.64
+T101044,2025-01-05,C1041,Male,18-24,Social,Fitness,Mobile,8.2,3,0.105,0,2,204.41
+T101045,2025-12-05,C1165,Female,55+,Email,Electronics,Mobile,3.4,4,0.125,0,1,119.23
+T101046,2025-03-19,C1081,Male,18-24,Paid Search,electronics,Desktop,8.0,2,0.099,0,1,44.52
+T101047,2025-03-03,C1290,Female,25-34,Organic Search,Electronics,Desktop,5.9,2,0.04,1,1,187.09
+T101048,2025-05-12,C1157,,35-44,Paid Search,Fitness,Desktop,3.3,3,0.092,1,1,114.22
+T101049,2025-03-30,C1215,Non-binary,18-24,Referral,Fitness,Tablet,8.7,1,0.147,1,1,105.66
+T101050,2025-08-25,C1157,Male,25-34,Email,Home,Mobile,9.5,5,0.014,0,2,163.52
+T101051,2025-02-11,C1133,Male,25-34,Social,Fashion,Mobile,6.3,3,0.093,0,1,47.33
+T101052,2025-03-30,C1066,Male,45-54,Organic Search,Fashion,Mobile,7.3,6,0.073,1,1,71.22
+T101053,2025-10-23,C1006,Male,35-44,Social,Fitness,Desktop,1.3,6,0.054,1,1,78.61
+T101054,2025-11-24,C1013,Female,35-44,Paid Search,Fitness,Tablet,9.3,4,0.113,0,1,122.3
+T101055,2025-10-22,C1072,Female,55+,Organic Search,electronics,Mobile,8.5,3,0.03,1,1,164.91
+T101056,2025-04-14,C1162,Female,45-54,Referral,Fitness,Mobile,7.1,1,0.071,1,1,149.75
+T101057,2025-01-14,C1065,Female,25-34,Organic Search,Electronics,Mobile,3.4,2,0.112,1,1,178.57
+T101058,2025-10-15,C1129,Female,25-34,Paid Search,Electronics,Desktop,2.4,5,0.109,0,1,284.04
+T101059,2025-06-28,C1205,Male,35-44,Organic Search,Fashion,Desktop,11.6,3,0.1,0,1,47.19
+T101060,2025-05-05,C1275,,35-44,Social,Fitness,Mobile,4.0,5,0.087,0,2,207.74
+T101061,2025-12-19,C1255,Female,35-44,Paid Search,Home,Mobile,6.8,3,0.078,0,1,85.72
+T101062,2025-01-23,C1265,Male,35-44,Referral,Home,Desktop,4.1,5,0.068,0,2,124.69
+T101063,2025-03-04,C1024,Female,18-24,Paid Search,Fitness,Desktop,0.8,2,0.053,0,2,166.97
+T101064,2025-05-23,C1280,Male,25-34,Organic Search,Electronics,Mobile,7.6,2,0.106,1,1,190.01
+T101065,2025-06-02,C1252,Male,25-34,Social,Electronics,Desktop,,5,0.088,0,2,379.78
+T101066,2025-05-25,C1309,Male,18-24,Social,Electronics,Mobile,2.3,5,0.107,0,1,182.13
+T101067,2025-08-13,C1288,,18-24,Referral,Beauty,Desktop,9.3,5,0.059,1,1,52.91
+T101068,2025-11-05,C1163,Female,35-44,Referral,Fitness,Desktop,5.2,4,0.058,1,1,117.94
+T101069,2025-04-14,C1094,Male,35-44,Paid Search,Electronics,Mobile,3.8,3,0.097,1,1,236.16
+T101070,2025-04-14,C1269,Male,25-34,Email,Fitness,Mobile,3.6,4,0.014,0,1,76.98
+T101071,2025-02-08,,Female,25-34,Email,Electronics,Desktop,8.7,4,0.006,1,1,233.78
+T101072,2025-07-17,C1109,Non-binary,25-34,Social,Fitness,Mobile,1.7,5,0.112,1,1,151.37
+T101073,2025-05-14,C1309,Female,25-34,Referral,Fashion,Desktop,3.4,4,0.061,0,1,56.05
+T101074,2025-03-08,C1237,Male,35-44,Paid Search,Fitness,Desktop,7.6,6,0.088,1,1,94.06
+T101075,2025-06-28,C1024,Female,45-54,Email,Fashion,Desktop,7.2,4,0.093,0,1,71.13
+T101076,2025-02-11,C1140,Female,45-54,Email,Fashion,Mobile,3.9,1,0.113,0,1,42.65
+T101077,2025-01-15,C1116,Male,35-44,Social,Beauty,Mobile,9.7,2,0.069,0,1,54.72
+T101078,2025-04-21,C1024,Male,35-44,Paid Search,Fitness,Desktop,3.7,2,0.07,0,1,96.22
+T101079,2025-06-06,C1078,Female,18-24,Paid Search,Fashion,Mobile,6.0,1,0.064,0,1,71.06
+T101080,2025-10-16,C1067,Female,25-34,Organic Search,Home,Desktop,5.6,3,0.101,1,3,332.25
+T101081,2025-08-19,C1172,Male,18-24,Social,Electronics,Desktop,5.7,5,0.102,0,2,326.74
+T101082,2025-06-06,C1011,Female,55+,Social,Fashion,Mobile,6.0,5,0.12,1,1,74.68
+T101083,2025-02-07,C1287,Female,18-24,Organic Search,Fitness,Desktop,5.9,4,0.045,1,2,177.6
+T101084,2025-04-07,C1127,Male,18-24,Email,Electronics,Mobile,5.9,6,0.149,0,1,110.5
+T101085,2025-10-16,C1095,Male,45-54,Organic Search,Home,Mobile,6.0,2,0.073,0,1,85.95
+T101086,2025-09-11,C1091,Female,55+,Social,Fashion,Tablet,9.2,4,0.081,1,3,288.28
+T101087,2025-07-15,C1140,Male,45-54,Referral,Beauty,Tablet,5.9,3,0.087,1,1,45.58
+T101088,2025-03-27,C1030,Male,18-24,Email,Fitness,Mobile,8.2,1,0.055,0,3,342.67
+T101089,2025-11-18,C1019,Male,18-24,Email,Fitness,Tablet,,3,0.07,0,1,77.87
+T101090,2025-01-10,C1145,Male,25-34,Email,Fitness,Mobile,7.4,4,0.126,1,1,95.85
+T101091,2025-01-05,C1315,Female,18-24,Paid Search,Beauty,Mobile,8.4,3,0.126,0,1,33.76
+T101092,2025-05-03,C1159,Female,18-24,Social,Fitness,Mobile,3.6,4,0.088,1,1,135.68
+T101093,2025-11-26,C1042,Female,25-34,Email,Fitness,Tablet,8.1,7,0.113,1,1,98.97
+T101094,2025-12-19,C1253,Male,55+,Paid Search,Fitness,Mobile,6.0,6,0.094,0,1,87.58
+T101095,2025-04-28,C1129,Female,25-34,Paid Search,Home,Mobile,4.1,1,0.08,0,2,195.02
+T101096,2025-10-21,C1059,Male,35-44,Email,Home,Mobile,8.4,6,0.059,0,1,76.16
+T101097,2025-06-08,C1150,Female,35-44,Paid Search,Fashion,Desktop,5.4,2,0.056,1,1,114.49
+T101098,2025-10-30,C1286,Female,25-34,Paid Search,Electronics,Mobile,7.4,4,0.059,0,1,189.33
+T101099,2025-08-16,C1004,Male,35-44,Paid Search,Electronics,Mobile,0.3,6,0.13,0,2,390.58
+T101100,2025-12-31,C1265,Male,25-34,Social,Beauty,Mobile,8.3,2,0.108,1,1,29.51
+T101101,2025-08-04,C1129,Female,18-24,Organic Search,Fashion,Desktop,13.0,3,0.125,0,1,80.21
+T101102,2025-07-03,C1266,Male,35-44,Email,Electronics,Desktop,6.5,3,0.094,0,3,573.61
+T101103,2025-01-15,C1177,Female,18-24,Referral,Electronics,Mobile,5.8,3,0.056,1,1,216.28
+T101104,2025-06-06,C1252,Male,55+,Organic Search,Electronics,Desktop,5.3,2,0.1,0,1,194.37
+T101105,2025-05-16,C1055,Male,25-34,Social,Fitness,Mobile,7.9,6,0.12,1,2,188.03
+T101106,2025-09-18,C1082,Female,35-44,Email,Electronics,Desktop,5.7,3,0.101,1,2,389.77
+T101107,2025-06-06,C1098,Male,25-34,Email,Home,Desktop,8.1,2,0.042,0,1,82.54
+T101108,2025-02-16,C1148,Male,18-24,Email,Home,Mobile,10.8,4,0.038,0,1,138.11
+T101109,2025-11-20,C1155,Male,18-24,Email,Fashion,Mobile,8.6,6,0.101,0,2,142.05
+T101110,2025-11-28,C1189,Female,35-44,Paid Search,Home,Desktop,6.1,0,0.073,1,1,88.81
+T101111,2025-06-22,C1262,Female,45-54,Referral,Electronics,Desktop,3.7,5,0.091,0,3,822.07
+T101112,2025-05-10,C1079,Non-binary,45-54,Paid Search,Beauty,Mobile,5.5,2,0.06,1,1,66.94
+T101113,2025-04-05,C1251,Female,25-34,Paid Search,Fashion,Desktop,6.1,3,0.086,1,1,97.32
+T101114,2025-04-25,C1096,Male,45-54,Organic Search,Fitness,Mobile,3.2,2,0.049,0,1,92.29
+T101115,2025-08-31,C1259,Male,35-44,Email,Fashion,Mobile,9.2,3,0.089,1,2,169.57
+T101116,2025-10-19,C1259,Male,35-44,Organic Search,Fashion,Mobile,7.9,3,0.104,0,3,245.4
+T101117,2025-10-09,C1102,Female,25-34,Organic Search,Electronics,Desktop,3.9,3,0.106,1,1,162.8
+T101118,2025-10-26,C1039,Female,35-44,Social,Fitness,Desktop,2.1,2,0.043,1,3,
+T101119,2025-10-10,C1272,Male,45-54,Referral,Home,Mobile,8.3,4,0.096,0,1,115.9
+T101120,2025-03-10,C1100,Female,25-34,Paid Search,Beauty,Mobile,,2,0.064,0,1,48.55
+T101121,2025-05-28,C1307,Female,45-54,Organic Search,Electronics,Mobile,6.7,5,0.128,1,2,305.34
+T101122,2025-01-11,C1220,Female,35-44,Referral,Home,Mobile,5.5,4,0.111,1,2,247.17
+T101123,2025-09-11,C1307,Female,25-34,Social,Fashion,Mobile,8.5,3,0.083,1,2,176.59
+T101124,2025-11-26,C1123,Male,18-24,Organic Search,Electronics,Mobile,8.5,2,0.147,0,2,395.35
+T101125,2025-12-26,C1230,Female,25-34,Referral,Fashion,Mobile,4.4,3,0.06,0,1,57.38
+T101126,2025-02-07,C1177,Female,35-44,Email,Electronics,Mobile,8.7,2,0.08,0,1,180.13
+T101127,2025-05-14,C1062,Female,45-54,Referral,Electronics,Desktop,,3,0.098,1,3,722.3
+T101128,2025-07-19,C1115,Male,18-24,Email,Fashion,Mobile,6.5,4,0.143,0,1,63.16
+T101129,2025-01-23,C1190,Male,45-54,Organic Search,Fitness,Mobile,6.6,1,0.126,0,1,85.61
+T101130,2025-10-30,C1061,Female,45-54,Referral,Fitness,Desktop,12.1,7,0.106,1,2,199.32
+T101131,2025-12-12,C1255,Male,18-24,Paid Search,Electronics,Mobile,6.2,2,0.056,0,1,237.1
+T101132,2025-10-29,C1006,Male,45-54,Organic Search,Beauty,Desktop,2.3,2,0.056,0,2,100.2
+T101133,2025-12-29,C1154,Male,55+,Paid Search,Fitness,Mobile,4.7,3,0.103,0,1,54.97
+T101134,2025-08-06,C1091,Male,35-44,Referral,Fitness,Mobile,8.3,2,0.044,1,2,259.5
+T101135,2025-05-21,C1013,Female,45-54,Social,Beauty,Mobile,5.8,4,0.092,0,1,50.37
+T101136,2025-04-14,C1228,Female,55+,Social,Fashion,Mobile,6.5,0,0.106,0,1,87.17
+T101137,2025-07-29,C1085,Female,35-44,Organic Search,Fitness,Mobile,5.4,1,0.038,0,1,83.93
+T101138,2025-04-21,C1132,Female,25-34,Social,Fashion,Tablet,0.3,5,0.101,1,1,80.39
+T101139,2025-04-14,C1182,,45-54,Paid Search,Fitness,Mobile,4.6,2,0.109,1,1,69.71
+T101140,2025-11-12,C1061,Female,35-44,Paid Search,Fitness,Mobile,6.3,6,0.071,0,1,51.22
+T101141,2025-06-20,C1218,Female,35-44,Social,Electronics,Desktop,2.1,4,0.077,0,1,178.94
+T101142,2025-12-22,C1245,Male,25-34,Paid Search,Home,Mobile,3.6,3,0.028,1,1,96.8
+T101143,2025-11-20,C1229,Male,45-54,Email,Fashion,Desktop,5.6,5,0.079,1,1,81.45
+T101144,2025-05-13,C1078,Female,18-24,Email,Electronics,Mobile,5.7,4,0.036,1,1,238.02
+T101145,2025-10-20,C1148,Female,55+,Email,Electronics,Tablet,7.5,2,0.061,1,2,728.71
+T101146,2025-11-24,C1137,Female,25-34,Referral,Home,Mobile,5.8,5,0.07,1,1,86.91
+T101147,2025-05-07,C1313,Male,18-24,Organic Search,Electronics,Mobile,7.4,6,0.047,1,2,334.33
+T101148,2025-04-16,C1064,Female,25-34,Social,Fashion,Desktop,4.7,5,0.045,0,2,169.37
+T101149,2025-04-02,C1012,Female,18-24,Paid Search,Fashion,Mobile,7.0,0,0.046,0,2,146.85
+T101150,2025-10-14,C1212,Male,35-44,Paid Search,Beauty,Mobile,10.2,6,0.119,0,2,69.89
+T101151,2025-02-20,C1241,Female,55+,Paid Search,Electronics,Desktop,7.2,4,0.08,1,1,242.0
+T101152,2025-01-29,C1212,Male,45-54,Social,Fitness,Mobile,5.9,2,0.12,1,2,174.79
+T101153,2025-10-23,C1180,Male,18-24,Organic Search,Fitness,Mobile,4.1,6,0.07,1,1,111.66
+T101154,2025-10-24,C1172,Female,18-24,Referral,Fashion,Desktop,6.7,2,0.07,0,3,206.72
+T101155,2025-08-02,C1159,Non-binary,45-54,Social,Beauty,Mobile,6.0,6,0.069,0,3,112.08
+T101156,2025-09-24,C1163,Male,55+,Organic Search,Home,Desktop,,3,0.005,0,1,53.03
+T101157,2025-09-14,C1187,Female,25-34,Organic Search,Beauty,Tablet,1.9,1,0.097,0,1,49.47
+T101158,2025-10-29,C1190,Male,25-34,Referral,Fashion,Mobile,6.0,2,0.079,1,1,102.01
+T101159,2025-04-11,C1307,Male,25-34,Social,Fitness,Mobile,7.5,0,0.084,1,2,257.79
+T101160,2025-12-12,C1255,Male,45-54,Email,Fitness,Mobile,6.8,4,0.019,0,1,116.48
+T101161,2025-04-20,C1182,Female,35-44,Organic Search,Electronics,Mobile,5.7,0,0.081,0,1,189.07
+T101162,2025-07-01,C1116,,25-34,Social,Fitness,Tablet,5.6,2,0.069,1,1,111.41
+T101163,2025-11-09,C1281,Female,25-34,Social,Fitness,Mobile,3.8,1,0.086,0,1,76.98
+T101164,2025-01-01,C1195,Female,45-54,Email,Home,Mobile,7.4,4,0.08,1,3,296.21
+T101165,2025-11-15,C1033,Female,18-24,Referral,Beauty,Desktop,7.6,0,0.067,0,2,123.24
+T101166,2025-02-24,C1051,Female,25-34,Referral,Home,Desktop,3.0,4,0.099,0,1,111.55
+T101167,2025-05-29,C1111,Male,35-44,Paid Search,Electronics,Mobile,8.4,2,0.113,0,1,260.41
+T101168,2025-11-05,C1251,Female,18-24,Referral,Electronics,Mobile,4.9,2,0.07,0,1,219.17
+T101169,2025-05-17,C1081,Female,18-24,Email,Home,Desktop,5.6,2,0.039,1,1,124.09
+T101170,2025-07-21,C1231,Male,45-54,Email,Beauty,Tablet,11.1,1,0.041,0,2,103.03
+T101171,2025-11-09,C1226,Female,45-54,Email,Electronics,Desktop,10.5,2,0.095,0,1,244.2
+T101172,2025-04-27,C1232,Female,45-54,Email,Home,Mobile,2.9,3,0.121,0,1,89.09
+T101173,2025-06-03,C1220,Female,45-54,Social,Fashion,Mobile,3.3,8,0.028,0,3,139.99
+T101174,2025-10-18,C1041,Female,35-44,Email,Beauty,Mobile,3.9,1,0.051,0,3,169.1
+T101175,2025-03-04,C1020,Female,45-54,Paid Search,Fitness,Mobile,10.5,6,0.072,0,1,138.75
+T101176,2025-09-01,C1041,Male,25-34,Email,Home,Tablet,5.0,3,0.021,1,1,114.55
+T101177,2025-01-25,C1112,Female,35-44,Paid Search,Fitness,Desktop,2.8,1,0.079,1,1,79.25
+T101178,2025-03-31,C1104,Female,55+,Email,Electronics,Tablet,9.6,2,0.093,0,2,318.87
+T101179,2025-03-16,C1191,Male,25-34,Social,Fashion,Mobile,8.0,3,0.096,0,3,237.08
+T101180,2025-10-21,C1016,Male,25-34,Email,Electronics,Desktop,12.1,4,0.07,0,1,106.5
+T101181,2025-07-29,C1119,Female,25-34,Referral,Fitness,Desktop,8.0,5,0.071,0,1,71.52
+T101182,2025-12-13,C1128,Male,18-24,Social,Home,Desktop,6.4,1,0.051,1,3,334.26
+T101183,2025-01-17,C1129,Female,18-24,Email,Fitness,Mobile,,5,0.029,1,2,225.05
+T101184,2025-05-08,C1059,Male,45-54,Referral,Beauty,Mobile,5.4,4,0.076,1,4,151.55
+T101185,2025-12-30,C1047,Male,55+,Email,Home,Desktop,9.8,4,0.094,0,1,63.06
+T101186,2025-09-08,C1028,Female,25-34,Paid Search,Electronics,Mobile,9.9,4,0.082,0,1,227.25
+T101187,2025-06-28,C1096,Male,18-24,Email,Fitness,Tablet,2.5,4,0.115,1,1,114.99
+T101188,2025-07-01,C1009,Female,18-24,Paid Search,Fashion,Mobile,8.9,4,0.092,0,1,66.31
+T101189,2025-06-01,C1241,Male,45-54,Organic Search,Fashion,Desktop,3.8,5,0.102,0,1,72.67
+T101190,2025-01-25,C1313,Female,25-34,Social,Electronics,Desktop,12.5,4,0.087,1,1,213.33
+T101191,2025-06-29,C1231,Male,25-34,Paid Search,Home,Desktop,10.3,2,0.138,1,1,156.1
+T101192,2025-07-17,C1276,Male,25-34,Social,Fashion,Mobile,3.7,6,0.067,1,3,189.68
+T101193,2025-12-10,C1283,Male,25-34,Email,Beauty,Tablet,7.1,4,0.102,0,1,44.91
+T101194,2025-06-10,C1202,Female,25-34,Social,Fitness,Desktop,9.0,0,0.089,0,2,205.59
+T101195,2025-06-26,C1246,Male,45-54,Paid Search,Fashion,Mobile,4.9,4,0.104,0,1,40.0
+T101196,2025-10-12,C1289,Male,35-44,Email,Fashion,Desktop,3.1,5,0.092,1,2,194.83
+T101197,2025-03-04,C1263,Male,35-44,Email,Beauty,Mobile,6.8,0,0.081,0,1,28.53
+T101198,2025-05-30,C1213,Male,25-34,Email,Home,Mobile,6.1,3,0.093,1,2,217.02
+T101199,2025-06-03,C1199,Male,35-44,Organic Search,Home,Mobile,4.2,2,0.097,1,1,75.98
+DUP0,2025-10-05,C1133,Male,45-54,Email,Home,Desktop,5.8,6,0.085,1,3,272.1
+DUP1,2025-07-11,C1028,Male,25-34,Referral,Fitness,Tablet,,3,0.058,0,2,210.28
+DUP2,2025-11-14,C1141,Male,25-34,Referral,Home,Desktop,5.6,1,0.12,0,1,135.16
+DUP3,2025-08-29,C1267,Male,25-34,Referral,Fashion,Mobile,5.7,4,0.018,0,1,32.14
+DUP4,2025-06-13,,Male,45-54,Organic Search,Fashion,Mobile,4.3,1,0.076,1,2,191.61
+DUP5,2025-11-17,,Female,35-44,Paid Search,Home,Mobile,3.0,3,0.083,1,2,212.37
+DUP6,2025-01-13,C1192,Female,55+,Paid Search,Beauty,Desktop,10.8,3,0.085,0,1,44.88
+DUP7,2025-07-03,C1011,Female,45-54,Social,Beauty,Mobile,5.4,1,0.109,1,1,56.71
+DUP8,2025-07-21,C1125,Female,55+,Organic Search,Fitness,Tablet,7.7,2,0.094,1,2,213.27
+DUP9,2025-06-16,C1246,Non-binary,35-44,Referral,Electronics,Tablet,6.4,0,0.125,0,2,382.24
+DUP10,2025-10-29,C1006,Male,45-54,Organic Search,Beauty,Desktop,2.3,2,0.056,0,2,100.2
+DUP11,2025-01-05,C1016,Male,45-54,Paid Search,Fitness,Mobile,9.3,3,0.091,1,1,159.09
+DUP12,2025-07-09,C1054,Female,18-24,Social,Electronics,Mobile,6.6,3,0.081,1,1,86.52
+DUP13,2025-04-26,C1184,Female,25-34,Email,Fitness,Mobile,7.8,4,0.07,0,1,128.76
+DUP14,2025-08-03,C1002,Female,35-44,Email,Home,Tablet,6.7,6,0.056,1,1,105.29
+DUP15,2025-04-29,C1284,Male,55+,Social,Electronics,Mobile,5.9,5,0.049,1,4,1106.81
+DUP16,2025-07-19,C1115,Male,18-24,Email,Fashion,Mobile,6.5,4,0.143,0,1,63.16
+DUP17,2025-05-05,C1154,Male,45-54,Paid Search,Fashion,Desktop,3.7,1,0.037,0,1,88.52
+DUP18,2025-11-12,C1265,Male,35-44,Email,Fitness,Mobile,4.0,4,0.075,0,1,70.87
+DUP19,2025-01-28,C1236,Male,25-34,Referral,Beauty,Desktop,4.9,4,0.079,0,2,105.79
